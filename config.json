@@ -1,1 +1,3 @@
-{ "title" : "mpxTree",   "source": "mpoxSpectrum, contributed by many teams worldwide, and curated by NextStrain."}
+{ "title" : "mpxTree",   "source": "mpoxSpectrum, contributed by many teams worldwide, and curated by NextStrain.",
+"defaultColorByField":"meta_country"
+}
