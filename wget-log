@@ -1,0 +1,11 @@
+--2022-05-23 16:45:12--  https://mpox-lapis.gen-spectrum.org/v1/sample/details?downloadAsFile=true
+Resolving mpox-lapis.gen-spectrum.org (mpox-lapis.gen-spectrum.org)... 18.192.178.198
+Connecting to mpox-lapis.gen-spectrum.org (mpox-lapis.gen-spectrum.org)|18.192.178.198|:443... connected.
+HTTP request sent, awaiting response... 200 
+Length: 49322 (48K) [application/json]
+Saving to: ‘details?downloadAsFile=true’
+
+          details?d   0%[                  ]       0  --.-KB/s               details?downloadAsF 100%[=================>]  48.17K  --.-KB/s    in 0.007s  
+
+2022-05-23 16:45:12 (6.38 MB/s) - ‘details?downloadAsFile=true’ saved [49322/49322]
+
