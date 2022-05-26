@@ -1,5 +1,6 @@
 #! /bin/bash
-cat raxml/out.fa.raxml.bestTreeCollapsed | ./gotree reroot outgroup DRC_07_0104 DRC_07_0283 DRC_07_0354 > rooted.nwk
+cat raxml/out.fa.raxml.bestTreeCollapsed | ./gotree reroot outgroup DRC_07_0104 DRC_07_0283 DRC_07_0354 Ikubi A6_contig_SPADES > rooted.nwk
+sleep 10
 faToVcf -ref=MPXV-UK_P2 ./masked.fa ./merged.vcf
 usher -t rooted.nwk --vcf merged.vcf --collapse-tree --save-mutation-annotated-tree mpx.pb
 pip install -U taxoniumtools
