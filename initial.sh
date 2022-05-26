@@ -3,7 +3,9 @@ wget "https://mpox-lapis.gen-spectrum.org/v1/sample/fasta-aligned?downloadAsFile
 pip install Bio
 python mask.py -f out.fa -b mask.bed -o masked.fa
 # convert fasta to tsv
-./fasta2tbl masked.fa | grep -v UNKNOWN | grep -v UNKNOWN | grep -v ITM_MPX_1_Belgium |grep -v MPXV_TNP_2017_North_Ponan | grep -v Sudan_2005_01 > masked.tsv
+wget -N https://raw.githubusercontent.com/nextstrain/monkeypox/master/config/exclude_overview.txt
+
+./fasta2tbl masked.fa | grep -v -f exclude_overview.txt  > masked.tsv
 ./tbl2fasta masked.tsv > masked.fa
 
 sed -i "s/[']//g" masked.fa
