@@ -7,6 +7,8 @@ wget -N https://raw.githubusercontent.com/nextstrain/monkeypox/master/config/exc
 wget -N https://raw.githubusercontent.com/nextstrain/monkeypox/master/config/exclude.txt
 wget -N https://raw.githubusercontent.com/nextstrain/monkeypox/master/config/exclude_outbreak.txt
 cat exclude* > all_exclude.txt
+# remove anything after a hash in all_exclude.txt
+sed -i 's/ *\#.*//' all_exclude.txt
 
 
 ./fasta2tbl masked.fa | grep -v -f all_exclude.txt  > masked.tsv

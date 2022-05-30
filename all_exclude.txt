@@ -1,4 +1,4 @@
-# exclude viruses from Congo Basin clade
+
 015c_contig_SPADES
 18_contig_SPADES
 38c_contig_SPADES
@@ -83,9 +83,9 @@ W_Nigeria
 PCH
 MPXV_WRAIR7_61__Walter_Reed_267
 
-# potentially problematic
-MPXV_1_IT_Milan_2022  # many extra mutations
-MPXV_FR_HCL0001_2022  # any reversions in terminal regions
+
+MPXV_1_IT_Milan_2022
+MPXV_FR_HCL0001_2022
 MPXV_TNP_2017_North_Ponan
 UNKNOWN_FV537349
 UNKNOWN_FV537350
@@ -94,7 +94,7 @@ UNKNOWN_FV537352
 UTC
 Sudan_2005_01
 
-# exclude viruses from Congo Basin clade
+
 015c_contig_SPADES
 18_contig_SPADES
 38c_contig_SPADES
@@ -144,6 +144,6 @@ UTC
 Sudan_2005_01
 W_Nigeria
 
-# potentially problematic
-MPXV_1_IT_Milan_2022  # many extra mutations
-MPXV_FR_HCL0001_2022  # any reversions in terminal regions
+
+MPXV_1_IT_Milan_2022
+MPXV_FR_HCL0001_2022
