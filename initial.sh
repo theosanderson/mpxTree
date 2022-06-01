@@ -3,8 +3,8 @@ wget "https://mpox-lapis.gen-spectrum.org/v1/sample/fasta-aligned?downloadAsFile
 pip install Bio
 python mask.py -f out.fa -b mask.bed -o masked.fa
 # convert fasta to tsv
-wget -N https://raw.githubusercontent.com/nextstrain/monkeypox/master/config/exclude_overview.txt
-wget -N https://raw.githubusercontent.com/nextstrain/monkeypox/master/config/exclude.txt
+#wget -N https://raw.githubusercontent.com/nextstrain/monkeypox/master/config/exclude_overview.txt
+#wget -N https://raw.githubusercontent.com/nextstrain/monkeypox/master/config/exclude.txt
 
 cat exclude* > all_exclude.txt
 # remove anything after a hash in all_exclude.txt
