@@ -1,147 +1,150 @@
 age,clade,country,countryExposure,date,dateSubmitted,died,division,divisionExposure,fullyVaccinated,genbankAccession,gisaidCloade,gisaidEpiIsl,hospitalized,host,location,month,nextcladePangoLineage,originatingLab,pangoLineage,region,regionExposure,samplingStrategy,sex,sraAccession,strain,submittingLab,year
-,WA,Liberia,,,2005-09-27,,,,,,,,,human,,,,,,Africa,,,,DQ011156,Liberia_1970_184,,1970
 ,CA,Democratic Republic of the Congo,,,2005-09-27,,,,,,,,,human,,,,,,Africa,,,,DQ011154,Congo_2003_358,,
 ,CA,,,,2010-03-18,,,,,,,,,,,,,,,,,,,FV537351,UNKNOWN_FV537351,,
 ,CA,,,,2010-03-18,,,,,,,,,,,,,,,,,,,FV537352,UNKNOWN_FV537352,,
-,CA,Democratic Republic of the Congo,,,2015-05-13,,,,,,,,,,,,,,,Africa,,,,KP849471,Yambuku_DRC_1985,,1985
-,CA,Gabon,,,2015-05-11,,,,,,,,,,,,,,,Africa,,,,KJ642619,Gabon_1988,,1988
-,WA,Singapore,,2019-04-30,2020-09-15,,,,,,,,,human,,4,,,,Asia,,,,MT903342,MPXV-Singapore,,2019
-,CA,Democratic Republic of the Congo,,2014-01-01,2021-03-28,,,,,,,,,squirrel,,1,,,,Africa,,,,MT724771,MPXV_DRC_2014_Funisciurus_bayonii_Y081,,2014
-,WA,Portugal,,2022-05-15,2022-05-24,,,,,,,,,human,,5,,,,Europe,,,,ON585030,Monkeypox/PT0002/2022,,2022
-,WA,Portugal,,2022-05-15,2022-05-24,,,,,,,,,human,,5,,,,Europe,,,,ON585034,Monkeypox/PT0007/2022,,2022
-,WA,Portugal,,2022-05-15,2022-05-24,,,,,,,,,human,,5,,,,Europe,,,,ON585036,Monkeypox/PT0010/2022,,2022
-,WA,Netherlands,,,2022-05-26,,,,,,,,,human,,5,,,,Europe,,,,ON615424,MPXV_2022_NL001,,2022
-,WA,Switzerland,,2022-05-19,2022-05-24,,,,,,,,,human,,5,,,,Europe,,,,ON595760,MPXV-CH-38134631/2022,,2022
-,WA,United Kingdom,,,2022-05-27,,,,,,,,,human,,5,,,,Europe,,,,ON619836,MPXV_UK_2022_2,,2022
-,WA,Belgium,,2022-05-22,2022-05-27,,,,,,,,,human,,5,,,,Europe,,,,ON622713,MPX/UZ_REGA_2/Belgium/2022,,2022
-,WA,Spain,,,2022-05-27,,,,,,,,,human,,5,,,,Europe,,,,ON622718,MPXV/ES0001/HUGTiP/2022,,2022
-,CA,Democratic Republic of the Congo,,2006-12-26,2014-01-14,,,,,,,,,human,,12,,,,Africa,,,,JX878415,DRC_07_0092,,2006
-,CA,Democratic Republic of the Congo,,2006-11-30,2014-01-14,,,,,,,,,human,,11,,,,Africa,,,,JX878412,DRC_06_1076,,2006
-,WA,Cote d'Ivoire,,2017-01-31,2020-03-17,,,,,,,,,chimpanzee,,1,,,,Africa,,,,MN346700,MPXV_TNP_2017_South_Ravel_2,,2017
-,WA,Portugal,,2022-05-18,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,Monkeypox/PT0027/2022,,2022
-,WA,Portugal,,2022-05-23,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,Monkeypox/PT0016/2022,,2022
-,WA,Portugal,,2022-05-21,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,Monkeypox/PT0019/2022,,2022
-,CA,Democratic Republic of the Congo,,2007-02-26,2014-01-14,,,,,,,,,human,,2,,,,Africa,,,,JX878420,DRC_07_0283,,2007
-,WA,Portugal,,2022-05-19,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,Monkeypox/PT0021/2022,,2022
-,WA,Portugal,,2022-05-19,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,Monkeypox/PT0022/2022,,2022
 ,CA,Democratic Republic of the Congo,,,2010-07-25,,,,,,,,,human,,,,,,Africa,,,,HM172544,Zaire_1979_005,,
-,CA,Democratic Republic of the Congo,,,2011-02-15,,,,,,,,,human,,,,,,Africa,,,,HQ857562,V79_I_005,,
-,CA,,,,2010-03-18,,,,,,,,,,,,,,,,,,,FV537349,UNKNOWN_FV537349,,
-,CA,,,,2010-03-18,,,,,,,,,,,,,,,,,,,FV537350,UNKNOWN_FV537350,,
-,CA,Democratic Republic of the Congo,,,2001-12-12,,,,,,,,,,,,,,,Africa,,,,NC_003310,Zaire_96_I_16,,
-,CA,Democratic Republic of the Congo,,2007-03-25,2014-01-14,,,,,,,,,human,,3,,,,Africa,,,,JX878424,DRC_07_0338,,2007
-,CA,Democratic Republic of the Congo,,2007-03-22,2014-01-14,,,,,,,,,human,,3,,,,Africa,,,,JX878421,DRC_07_0286,,2007
-,CA,Democratic Republic of the Congo,,2006-10-09,2014-01-14,,,,,,,,,human,,10,,,,Africa,,,,JX878407,DRC_06_0950,,2006
-,CA,Sudan,,,2013-02-20,,,,,,,,,human,,,,,,Africa,,,,KC257459,Sudan_2005_01,,2005
-,CA,Democratic Republic of the Congo,,2007-06-30,2014-01-14,,,,,,,,,human,,6,,,,Africa,,,,JX878428,DRC_07_0514,,2007
-,CA,Democratic Republic of the Congo,,2006-11-30,2014-01-14,,,,,,,,,human,,11,,,,Africa,,,,JX878411,DRC_06_1075,,2006
-,WA,Cote d'Ivoire,,,2014-03-30,,,,,,,,,Monkey,,3,,,,Africa,,,,KJ136820,Ivory_Coast_2012,,2012
-,CA,Democratic Republic of the Congo,,2006-11-24,2014-01-14,,,,,,,,,human,,11,,,,Africa,,,,JX878410,DRC_06_1070,,2006
-,CA,Democratic Republic of the Congo,,2007-02-10,2014-01-14,,,,,,,,,human,,2,,,,Africa,,,,JX878419,DRC_07_0275,,2007
-,CA,Democratic Republic of the Congo,,2006-12-26,2014-01-14,,,,,,,,,human,,12,,,,Africa,,,,JX878416,DRC_07_0093,,2006
-,CA,Democratic Republic of the Congo,,2007-05-25,2014-01-14,,,,,,,,,human,,5,,,,Africa,,,,JX878427,DRC_07_0480,,2007
-,CA,Democratic Republic of the Congo,,,2015-05-13,,,,,,,,,,,,,,,Africa,,,,KP849469,Boende_DRC_2008,,2008
-,CA,Democratic Republic of the Congo,,2006-10-31,2014-01-14,,,,,,,,,human,,10,,,,Africa,,,,JX878408,DRC_06_0970,,2006
-,CA,Democratic Republic of the Congo,,2007-01-02,2014-01-14,,,,,,,,,human,,1,,,,Africa,,,,JX878418,DRC_07_0120,,2007
-,CA,Democratic Republic of the Congo,,2006-11-09,2014-01-14,,,,,,,,,human,,11,,,,Africa,,,,JX878409,DRC_06_0999,,2006
-,CA,Central African Republic,,2010-08-10,2020-08-29,,,,,,,,,human,,8,,,,Africa,,,,MN702452,A2_contig_SPADES,,2010
-,CA,Democratic Republic of the Congo,,2006-12-14,2014-01-14,,,,,,,,,human,,12,,,,Africa,,,,JX878417,DRC_07_0104,,2006
-,WA,Portugal,,2022-05-15,2022-05-24,,,,,,,,,human,,5,,,,Europe,,,,ON585033,Monkeypox/PT0006/2022,,2022
-,WA,United Kingdom,,,2022-05-27,,,,,,,,,human,,5,,,,Europe,,,,ON619838,MPXV_UK_2022_4,,2022
-,CA,Democratic Republic of the Congo,,2007-04-20,2014-01-14,,,,,,,,,human,,4,,,,Africa,,,,JX878425,DRC_07_0354,,2007
-,WA,USA,,,2020-09-15,,,,,,,,,squirrel,,,,,,North America,,,,MT903348,MPXV-USA2003_099_Rope_Squirrel,,2003
-,WA,USA,,,2020-09-15,,,,,,,,,dormouse,,,,,,North America,,,,MT903347,MPXV-USA2003_099_Dormouse,,2003
-,WA,Cote d'Ivoire,,2017-03-05,2020-03-17,,,,,,,,,chimpanzee,,3,,,,Africa,,,,MN346692,MPXV_TNP_2017_North_Mama,,2017
-,WA,Germany,,,2022-05-31,,,,,,,,,human,,5,,,,Europe,,,,ON637938,MPXV/Germany/2022/RKI01,,2022
-,WA,Nigeria,,,2019-07-24,,,,,,,,,human,,11,,,,Africa,,,,MK783032,3030,,2017
-,WA,Italy,,2022-05-25,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON644344,MPXV_FVG-ITA_01_2022,,2022
-,WA,Cote d'Ivoire,,2017-01-23,2020-03-17,,,,,,,,,chimpanzee,,1,,,,Africa,,,,MN346699,MPXV_TNP_2017_South_Ravel_1,,2017
-,WA,Cote d'Ivoire,,2017-04-08,2020-03-17,,,,,,,,,chimpanzee,,4,,,,Africa,,,,MN346693,MPXV_TNP_2017_North_Ponan,,2017
-,WA,,,,2005-09-07,,,,,,,,,,,,,,,,,,,AY753185,COP_58,,1958
-,WA,Cote d'Ivoire,,2017-03-13,2020-03-17,,,,,,,,,chimpanzee,,3,,,,Africa,,,,MN346690,MPXV_TNP_2017_North_Bic,,2017
-,WA,Cote d'Ivoire,,2018-05-11,2020-03-17,,,,,,,,,chimpanzee,,5,,,,Africa,,,,MN346702,MPXV_TNP_2018_East_Paddy,,2018
-,WA,,,,2004-12-30,,,,,,,,,,,,,,,,,,,AY603973,MPXV_WRAIR7_61__Walter_Reed_267,,1961
-,WA,Cote d'Ivoire,,2017-01-24,2020-03-17,,,,,,,,,chimpanzee,,1,,,,Africa,,,,MN346698,MPXV_TNP_2017_South_Pushkin,,2017
-,CA,Democratic Republic of the Congo,,2007-09-04,2014-01-14,,,,,,,,,human,,9,,,,Africa,,,,JX878429,DRC_07_0662,,2007
-,CA,Democratic Republic of the Congo,,2006-12-14,2014-01-14,,,,,,,,,human,,12,,,,Africa,,,,JX878414,DRC_07_0046,,2006
-,CA,Central African Republic,,2017-02-06,2020-08-29,,,,,,,,,human,,2,,,,Africa,,,,MN702445,A4_contig_SPADES,,2017
-,WA,,,,2005-09-27,,,,,,,,,human,,,,,,North America,,,,DQ011157,USA_2003_039,,2003
-,WA,,,,2005-09-27,,,,,,,,,prairie dog,,,,,,North America,,,,DQ011153,USA_2003_044,,2003
-,WA,Sierra Leone,,,2005-09-07,,,,,,,,,,,,,,,Africa,,,,AY741551,Sierra_Leone,,1970
-,CA,,,2007-10-30,2011-02-15,,,,,,,,,,,10,,,,,,,,HQ857563,D14L_knockout,,2007
 ,CA,Democratic Republic of the Congo,,,2013-02-20,,,,,,,,,human,,,,,,Africa,,,,KC257460,DRC_Yandongi_1985,,1985
 ,CA,Democratic Republic of the Congo,,2007-05-27,2014-01-14,,,,,,,,,human,,5,,,,Africa,,,,JX878426,DRC_07_0450,,2007
-,CA,Central African Republic,,2018-04-14,2020-08-29,,,,,,,,,human,,4,,,,Africa,,,,MN702446,38c_contig_SPADES,,2018
+,WA,Nigeria,,2017-11-09,2019-07-24,,,,,,,,,human,,11,,,,Africa,,,,MK783028,3019,,2017
+,CA,Central African Republic,,2010-08-10,2020-08-29,,,,,,,,,human,,8,,,,Africa,,,,MN702452,A2_contig_SPADES,,2010
+,WA,Democratic Republic of the Congo,,2012-01-01,2021-03-28,,,,,,,,,rat,,1,,,,Africa,,,,MT724769,MPXV_DRC_2012_Malacomys_longipes_EPU30,,2012
+,WA,Portugal,,2022-05-15,2022-05-24,,,,,,,,,human,,5,,,,Europe,,,,ON585033,Monkeypox/PT0006/2022,,2022
+,WA,Portugal,,2022-05-15,2022-05-24,,,,,,,,,human,,5,,,,Europe,,,,ON585034,Monkeypox/PT0007/2022,,2022
+,WA,Slovenia,,2022-05-23,2022-05-26,,,,,,,,,human,,5,,,,Europe,,,,ON609725,SLO,,2022
+,WA,Netherlands,,,2022-05-26,,,,,,,,,human,,5,,,,Europe,,,,ON615424,MPXV_2022_NL001,,2022
+,WA,United Kingdom,,,2022-05-27,,,,,,,,,human,,5,,,,Europe,,,,ON619837,MPXV_UK_2022_3,,2022
+,WA,United Kingdom,,,2022-05-27,,,,,,,,,human,,5,,,,Europe,,,,ON619838,MPXV_UK_2022_4,,2022
+,WA,France,,2022-05-22,2022-05-27,,,,,,,,,human,,5,,,,Europe,,,,ON622722,MPXV_FR_HCL0001_2022,,2022
+,WA,Australia,,,2022-05-31,,,,,,,,,human,,5,,,,Oceania,,,,ON631963,MPxV/VIDRL01/2022,,2022
+,WA,Portugal,,2022-05-18,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON649711,Monkeypox/PT0026/2022,,2022
+,WA,Portugal,,2022-05-20,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON649714,Monkeypox/PT0015/2022,,2022
+,WA,Portugal,,2022-05-19,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON649713,Monkeypox/PT0020/2022,,2022
+,WA,Portugal,,2022-05-23,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON649716,Monkeypox/PT0016/2022,,2022
+,WA,Portugal,,2022-05-20,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON649718,Monkeypox/PT0018/2022,,2022
+,WA,,,,2004-12-30,,,,,,,,,,,,,,,,,,,AY603973,MPXV_WRAIR7_61__Walter_Reed_267,,1961
+,WA,Sierra Leone,,,2005-09-07,,,,,,,,,,,,,,,Africa,,,,AY741551,Sierra_Leone,,1970
+,WA,,,,2005-09-27,,,,,,,,,human,,,,,,North America,,,,DQ011157,USA_2003_039,,2003
+,CA,Democratic Republic of the Congo,,2007-09-04,2014-01-14,,,,,,,,,human,,9,,,,Africa,,,,JX878429,DRC_07_0662,,2007
 ,CA,Democratic Republic of the Congo,,2007-03-25,2014-01-14,,,,,,,,,human,,3,,,,Africa,,,,JX878423,DRC_07_0337,,2007
+,CA,,,,2010-03-18,,,,,,,,,,,,,,,,,,,FV537349,UNKNOWN_FV537349,,
+,CA,,,,2010-03-18,,,,,,,,,,,,,,,,,,,FV537350,UNKNOWN_FV537350,,
+,CA,Democratic Republic of the Congo,,2007-06-30,2014-01-14,,,,,,,,,human,,6,,,,Africa,,,,JX878428,DRC_07_0514,,2007
+,CA,Democratic Republic of the Congo,,2006-10-09,2014-01-14,,,,,,,,,human,,10,,,,Africa,,,,JX878407,DRC_06_0950,,2006
 ,CA,Democratic Republic of the Congo,,2007-03-20,2014-01-14,,,,,,,,,human,,3,,,,Africa,,,,JX878422,DRC_07_0287,,2007
-,CA,Democratic Republic of the Congo,,2006-12-14,2014-01-14,,,,,,,,,human,,12,,,,Africa,,,,JX878413,DRC_07_0045,,2006
+,CA,Democratic Republic of the Congo,,2006-11-30,2014-01-14,,,,,,,,,human,,11,,,,Africa,,,,JX878411,DRC_06_1075,,2006
+,CA,Democratic Republic of the Congo,,2006-11-30,2014-01-14,,,,,,,,,human,,11,,,,Africa,,,,JX878412,DRC_06_1076,,2006
+,CA,Sudan,,,2013-02-20,,,,,,,,,human,,,,,,Africa,,,,KC257459,Sudan_2005_01,,2005
+,CA,Democratic Republic of the Congo,,2006-12-14,2014-01-14,,,,,,,,,human,,12,,,,Africa,,,,JX878417,DRC_07_0104,,2006
+,CA,Democratic Republic of the Congo,,2007-04-20,2014-01-14,,,,,,,,,human,,4,,,,Africa,,,,JX878425,DRC_07_0354,,2007
+,WA,Nigeria,,2017-12-06,2019-07-24,,,,,,,,,human,,12,,,,Africa,,,,MK783029,3029,,2017
+,WA,France,,,2015-05-11,,,,,,,,,,,,,,,Europe,,,,KJ642616,PCH,,1968
+,CA,Democratic Republic of the Congo,,,2015-05-11,,,,,,,,,,,,,,,Africa,,,,KJ642613,Congo_8,,1970
+,CA,Cameroon,,,2015-05-11,,,,,,,,,,,,,,,Africa,,,,KJ642618,Cameroon_1990,,1990
+,CA,Democratic Republic of the Congo,,,2015-05-13,,,,,,,,,,,,,,,Africa,,,,KP849471,Yambuku_DRC_1985,,1985
+,CA,Democratic Republic of the Congo,,,2015-05-11,,,,,,,,,,,,,,,Africa,,,,KJ642612,Ikubi,,1986
+,CA,Gabon,,,2015-05-11,,,,,,,,,,,,,,,Africa,,,,KJ642619,Gabon_1988,,1988
+,CA,Democratic Republic of the Congo,,,2015-05-13,,,,,,,,,,,,,,,Africa,,,,KP849469,Boende_DRC_2008,,2008
+,WA,Cote d'Ivoire,,2017-01-23,2020-03-17,,,,,,,,,chimpanzee,,1,,,,Africa,,,,MN346699,MPXV_TNP_2017_South_Ravel_1,,2017
+,WA,Cote d'Ivoire,,2018-05-11,2020-03-17,,,,,,,,,chimpanzee,,5,,,,Africa,,,,MN346702,MPXV_TNP_2018_East_Paddy,,2018
+,WA,Cote d'Ivoire,,2017-03-13,2020-03-17,,,,,,,,,chimpanzee,,3,,,,Africa,,,,MN346690,MPXV_TNP_2017_North_Bic,,2017
+,WA,Cote d'Ivoire,,2017-04-08,2020-03-17,,,,,,,,,chimpanzee,,4,,,,Africa,,,,MN346693,MPXV_TNP_2017_North_Ponan,,2017
+,CA,Central African Republic,,2017-04-14,2020-08-29,,,,,,,,,human,,4,,,,Africa,,,,MN702451,A6_contig_SPADES,,2017
+,CA,Central African Republic,,2001-08-11,2020-08-29,,,,,,,,,human,,8,,,,Africa,,,,MN702453,A1_contig_SPADES,,2001
+,CA,Central African Republic,,2018-03-07,2020-08-29,,,,,,,,,human,,3,,,,Africa,,,,MN702448,015c_contig_SPADES,,2018
+,CA,Central African Republic,,2016-01-02,2020-08-29,,,,,,,,,human,,1,,,,Africa,,,,MN702449,B2_contig_SPADES,,2016
+,WA,Singapore,,2019-04-30,2020-09-15,,,,,,,,,human,,4,,,,Asia,,,,MT903342,MPXV-Singapore,,2019
+,CA,Central African Republic,,2018-03-20,2020-08-29,,,,,,,,,human,,3,,,,Africa,,,,MN702447,18_contig_SPADES,,2018
+,CA,Central African Republic,,2016-01-01,2020-08-29,,,,,,,,,human,,1,,,,Africa,,,,MN702450,B1_contig_SPADES,,2016
+,CA,Democratic Republic of the Congo,,,2001-12-12,,,,,,,,,,,,,,,Africa,,,,NC_003310,Zaire_96_I_16,,
+,CA,Democratic Republic of the Congo,,2014-01-01,2021-03-28,,,,,,,,,shrew,,1,,,,Africa,,,,MT724770,MPXV_DRC_2014_Crocidura__littoralis_COB771,,2014
+,WA,Nigeria,,,2020-09-15,,,,,,,,,human,,,,,,Africa,,,,MT903337,MPXV-M2940_FCT,,2018
+,CA,Democratic Republic of the Congo,,2014-01-01,2021-03-28,,,,,,,,,squirrel,,1,,,,Africa,,,,MT724771,MPXV_DRC_2014_Funisciurus_bayonii_Y081,,2014
+,CA,Democratic Republic of the Congo,,2014-01-01,2021-03-28,,,,,,,,,squirrel,,1,,,,Africa,,,,MT724772,Funisciurus_anerythrus_2014_DRC,,2014
+,WA,United Kingdom,,,,,,,,,,,,human,,,,,,Europe,,,,MT903344.1,MPXV-UK_P2,,2018
+,WA,Belgium,,2022-05-19,2022-05-27,,,,,,,,,human,,5,,,,Europe,,,,ON622712,MPX/UZ_REGA_1/Belgium/2022,,2022
+,WA,Israel,,2018-10-04,2019-12-07,,,,,,,,,human,,10,,,,West Asia,,,,MN648051,Israel_2018,,2018
+,WA,United Kingdom,,,2022-05-27,,,,,,,,,human,,5,,,,Europe,,,,ON619835,MPXV_UK_2022_1,,2022
+,WA,Finland,,2022-05-24,,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,mpx-37-Finland_consensus,,2022
+,WA,USA,,,2020-09-15,,,,,,,,,dormouse,,,,,,North America,,,,MT903347,MPXV-USA2003_099_Dormouse,,2003
+,WA,USA,,,2020-09-15,,,,,,,,,squirrel,,,,,,North America,,,,MT903348,MPXV-USA2003_099_Rope_Squirrel,,2003
+,WA,Germany,,,2022-05-31,,,,,,,,,human,,5,,,,Europe,,,,ON637938,MPXV/Germany/2022/RKI01,,2022
+,WA,Germany,,,2022-05-31,,,,,,,,,human,,5,,,,Europe,,,,ON637939,MPXV/Germany/2022/RKI02,,2022
+,WA,USA,,,2020-09-15,,,,,,,,,gambian rat,,,,,,North America,,,,MT903346,MPXV-USA2003_099_Gambian_Rat,,2003
+,WA,Nigeria,,2018-08-14,2020-09-15,,,,,,,,,human,,8,,,,Africa,,,,MT903341,MPXV-M5320_M15_Bayelsa,,2018
+,WA,Portugal,,2022-05-21,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON649717,Monkeypox/PT0019/2022,,2022
+,WA,,,,2005-09-07,,,,,,,,,,,,,,,,,,,AY753185,COP_58,,1958
+,CA,Democratic Republic of the Congo,,2006-10-31,2014-01-14,,,,,,,,,human,,10,,,,Africa,,,,JX878408,DRC_06_0970,,2006
+,WA,Nigeria,,,2019-07-24,,,,,,,,,human,,11,,,,Africa,,,,MK783032,3030,,2017
+,WA,Cote d'Ivoire,,2017-01-24,2020-03-17,,,,,,,,,chimpanzee,,1,,,,Africa,,,,MN346698,MPXV_TNP_2017_South_Pushkin,,2017
+,WA,Cote d'Ivoire,,2017-01-31,2020-03-17,,,,,,,,,chimpanzee,,1,,,,Africa,,,,MN346700,MPXV_TNP_2017_South_Ravel_2,,2017
+,WA,Cote d'Ivoire,,2017-04-02,2020-03-17,,,,,,,,,chimpanzee,,4,,,,Africa,,,,MN346695,MPXV_TNP_2017_North_Sidonie,,2017
+,CA,Central African Republic,,2017-02-06,2020-08-29,,,,,,,,,human,,2,,,,Africa,,,,MN702445,A4_contig_SPADES,,2017
+,CA,Central African Republic,,2018-04-14,2020-08-29,,,,,,,,,human,,4,,,,Africa,,,,MN702446,38c_contig_SPADES,,2018
+,CA,Central African Republic,,2017-02-06,2020-08-29,,,,,,,,,human,,2,,,,Africa,,,,MN702444,A5_contig_SPADES,,2017
+,WA,Portugal,,2022-05-15,2022-05-24,,,,,,,,,human,,5,,,,Europe,,,,ON585030,Monkeypox/PT0002/2022,,2022
+,WA,USA,,,2022-05-20,,,,,,,,,human,,5,,,,North America,,,,ON563414,MPXV_USA_2022_MA001,,2022
+,WA,Switzerland,,2022-05-24,2022-05-27,,,,,,,,,human,,5,,,,Europe,,,,ON622720,MPXV-CH-38156923/2022,,2022
+,WA,Portugal,,2022-05-18,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON649709,Monkeypox/PT0028/2022,,2022
+,WA,Portugal,,2022-05-18,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON649710,Monkeypox/PT0027/2022,,2022
+,WA,Portugal,,2022-05-19,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON649721,Monkeypox/PT0021/2022,,2022
+,WA,Portugal,,2022-05-23,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON649725,Monkeypox/PT0011/2022,,2022
+,WA,Israel,,2022-05-20,2022-06-01,,,,,,,,,human,,5,,,,Asia,,,,ON649879,MPXV_ISR001_2022,,2022
+,WA,United Kingdom,,2022-05-11,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON645312,MPXV_GSTT_Patient1,,2022
+,WA,Liberia,,,2005-09-27,,,,,,,,,human,,,,,,Africa,,,,DQ011156,Liberia_1970_184,,1970
+,WA,,,,2005-09-27,,,,,,,,,prairie dog,,,,,,North America,,,,DQ011153,USA_2003_044,,2003
+,CA,Democratic Republic of the Congo,,,2011-02-15,,,,,,,,,human,,,,,,Africa,,,,HQ857562,V79_I_005,,
+,CA,,,2007-10-30,2011-02-15,,,,,,,,,,,10,,,,,,,,HQ857563,D14L_knockout,,2007
+,CA,Democratic Republic of the Congo,,2007-03-25,2014-01-14,,,,,,,,,human,,3,,,,Africa,,,,JX878424,DRC_07_0338,,2007
+,CA,Democratic Republic of the Congo,,2006-12-14,2014-01-14,,,,,,,,,human,,12,,,,Africa,,,,JX878414,DRC_07_0046,,2006
+,CA,Democratic Republic of the Congo,,2007-03-22,2014-01-14,,,,,,,,,human,,3,,,,Africa,,,,JX878421,DRC_07_0286,,2007
+,CA,Democratic Republic of the Congo,,2007-02-26,2014-01-14,,,,,,,,,human,,2,,,,Africa,,,,JX878420,DRC_07_0283,,2007
+,CA,Democratic Republic of the Congo,,2006-12-26,2014-01-14,,,,,,,,,human,,12,,,,Africa,,,,JX878415,DRC_07_0092,,2006
+,CA,Democratic Republic of the Congo,,2007-05-25,2014-01-14,,,,,,,,,human,,5,,,,Africa,,,,JX878427,DRC_07_0480,,2007
+,CA,Democratic Republic of the Congo,,2007-01-02,2014-01-14,,,,,,,,,human,,1,,,,Africa,,,,JX878418,DRC_07_0120,,2007
+,CA,Democratic Republic of the Congo,,2006-11-09,2014-01-14,,,,,,,,,human,,11,,,,Africa,,,,JX878409,DRC_06_0999,,2006
 ,WA,Netherlands,,,2015-05-11,,,,,,,,,,,,,,,Europe,,,,KJ642614,UTC,,1965
+,WA,Cote d'Ivoire,,,2014-03-30,,,,,,,,,Monkey,,3,,,,Africa,,,,KJ136820,Ivory_Coast_2012,,2012
 ,WA,Nigeria,,,2015-05-11,,,,,,,,,,,,,,,Africa,,,,KJ642617,Nigeria_SE_1971,,1971
 ,WA,Nigeria,,,2015-05-11,,,,,,,,,,,,,,,Africa,,,,KJ642615,W_Nigeria,,1978
-,CA,Central African Republic,,2018-03-20,2020-08-29,,,,,,,,,human,,3,,,,Africa,,,,MN702447,18_contig_SPADES,,2018
-,CA,Central African Republic,,2018-03-07,2020-08-29,,,,,,,,,human,,3,,,,Africa,,,,MN702448,015c_contig_SPADES,,2018
+,CA,Democratic Republic of the Congo,,2006-12-14,2014-01-14,,,,,,,,,human,,12,,,,Africa,,,,JX878413,DRC_07_0045,,2006
+,CA,Democratic Republic of the Congo,,2007-02-10,2014-01-14,,,,,,,,,human,,2,,,,Africa,,,,JX878419,DRC_07_0275,,2007
+,CA,Democratic Republic of the Congo,,2006-12-26,2014-01-14,,,,,,,,,human,,12,,,,Africa,,,,JX878416,DRC_07_0093,,2006
+,CA,Democratic Republic of the Congo,,2006-11-24,2014-01-14,,,,,,,,,human,,11,,,,Africa,,,,JX878410,DRC_06_1070,,2006
 ,WA,Cote d'Ivoire,,,2015-05-13,,,,,,,,,,,,,,,Africa,,,,KP849470,Cote_dIvoire_1971,,1971
-,CA,Democratic Republic of the Congo,,,2015-05-11,,,,,,,,,,,,,,,Africa,,,,KJ642613,Congo_8,,1970
-,WA,Nigeria,,2017-11-09,2019-07-24,,,,,,,,,human,,11,,,,Africa,,,,MK783028,3019,,2017
-,WA,France,,,2015-05-11,,,,,,,,,,,,,,,Europe,,,,KJ642616,PCH,,1968
-,CA,Cameroon,,,2015-05-11,,,,,,,,,,,,,,,Africa,,,,KJ642618,Cameroon_1990,,1990
-,CA,Democratic Republic of the Congo,,,2015-05-11,,,,,,,,,,,,,,,Africa,,,,KJ642612,Ikubi,,1986
-,CA,Central African Republic,,2016-01-02,2020-08-29,,,,,,,,,human,,1,,,,Africa,,,,MN702449,B2_contig_SPADES,,2016
-,WA,Nigeria,,2017-12-06,2019-07-24,,,,,,,,,human,,12,,,,Africa,,,,MK783029,3029,,2017
-,WA,Nigeria,,2017-11-30,2019-07-24,,,,,,,,,human,,11,,,,Africa,,,,MK783030,3025,,2017
 ,WA,Nigeria,,2017-11-09,2019-07-24,,,,,,,,,human,,11,,,,Africa,,,,MK783031,3020,,2017
-,WA,Cote d'Ivoire,,2017-03-28,2020-03-17,,,,,,,,,chimpanzee,,3,,,,Africa,,,,MN346694,MPXV_TNP_2017_North_Saro,,2017
+,WA,Nigeria,,2017-11-30,2019-07-24,,,,,,,,,human,,11,,,,Africa,,,,MK783030,3025,,2017
 ,WA,Cote d'Ivoire,,2017-04-03,2020-03-17,,,,,,,,,chimpanzee,,4,,,,Africa,,,,MN346696,MPXV_TNP_2017_North_Surprise_1,,2017
-,WA,Cote d'Ivoire,,2017-04-02,2020-03-17,,,,,,,,,chimpanzee,,4,,,,Africa,,,,MN346695,MPXV_TNP_2017_North_Sidonie,,2017
-,CA,Central African Republic,,2017-02-06,2020-08-29,,,,,,,,,human,,2,,,,Africa,,,,MN702444,A5_contig_SPADES,,2017
-,CA,Central African Republic,,2016-01-01,2020-08-29,,,,,,,,,human,,1,,,,Africa,,,,MN702450,B1_contig_SPADES,,2016
-,CA,Central African Republic,,2017-04-14,2020-08-29,,,,,,,,,human,,4,,,,Africa,,,,MN702451,A6_contig_SPADES,,2017
-,WA,Democratic Republic of the Congo,,2012-01-01,2021-03-28,,,,,,,,,rat,,1,,,,Africa,,,,MT724769,MPXV_DRC_2012_Malacomys_longipes_EPU30,,2012
-,CA,Central African Republic,,2001-08-11,2020-08-29,,,,,,,,,human,,8,,,,Africa,,,,MN702453,A1_contig_SPADES,,2001
-,CA,Democratic Republic of the Congo,,2014-01-01,2021-03-28,,,,,,,,,shrew,,1,,,,Africa,,,,MT724770,MPXV_DRC_2014_Crocidura__littoralis_COB771,,2014
+,WA,Cote d'Ivoire,,2017-03-05,2020-03-17,,,,,,,,,chimpanzee,,3,,,,Africa,,,,MN346692,MPXV_TNP_2017_North_Mama,,2017
+,WA,Cote d'Ivoire,,2017-03-28,2020-03-17,,,,,,,,,chimpanzee,,3,,,,Africa,,,,MN346694,MPXV_TNP_2017_North_Saro,,2017
 ,WA,Nigeria,,,2020-09-15,,,,,,,,,human,,,,,,Africa,,,,MT903340,MPXV-M5312_HM12_Rivers,,2018
-,WA,Nigeria,,,2020-09-15,,,,,,,,,human,,,,,,Africa,,,,MT903339,MPXV-M3021_Delta,,2018
-,WA,Nigeria,,,2020-09-15,,,,,,,,,human,,,,,,Africa,,,,MT903337,MPXV-M2940_FCT,,2018
-,WA,Nigeria,,,2020-09-15,,,,,,,,,human,,,,,,Africa,,,,MT903338,MPXV-M2957_Lagos,,2018
-,WA,USA,,,2022-05-20,,,,,,,,,human,,5,,,,North America,,,,ON563414,MPXV_USA_2022_MA001,,2022
-,CA,Democratic Republic of the Congo,,2014-01-01,2021-03-28,,,,,,,,,squirrel,,1,,,,Africa,,,,MT724772,Funisciurus_anerythrus_2014_DRC,,2014
 ,WA,Portugal,,2022-05-04,2022-05-24,,,,,,,,,human,,5,,,,Europe,,,,ON585029,Monkeypox/PT0001/2022,,2022
+,WA,Nigeria,,,2020-09-15,,,,,,,,,human,,,,,,Africa,,,,MT903338,MPXV-M2957_Lagos,,2018
 ,WA,Portugal,,2022-05-15,2022-05-24,,,,,,,,,human,,5,,,,Europe,,,,ON585031,Monkeypox/PT0003/2022,,2022
-,WA,Portugal,,2022-05-17,2022-05-24,,,,,,,,,human,,5,,,,Europe,,,,ON585032,Monkeypox/PT0004/2022,,2022
+,WA,Nigeria,,,2020-09-15,,,,,,,,,human,,,,,,Africa,,,,MT903339,MPXV-M3021_Delta,,2018
 ,WA,Portugal,,2022-05-15,2022-05-24,,,,,,,,,human,,5,,,,Europe,,,,ON585035,Monkeypox/PT0009/2022,,2022
-,WA,United Kingdom,,,,,,,,,,,,human,,,,,,Europe,,,,MT903344.1,MPXV-UK_P2,,2018
-,WA,United Kingdom,,,,,,,,,,,,human,,,,,,Europe,,,,MT903343.1,MPXV-UK_P1,,2018
-,WA,Portugal,,2022-05-15,2022-05-24,,,,,,,,,human,,5,,,,Europe,,,,ON585037,Monkeypox/PT0005/2022,,2022
+,WA,Portugal,,2022-05-17,2022-05-24,,,,,,,,,human,,5,,,,Europe,,,,ON585032,Monkeypox/PT0004/2022,,2022
+,WA,Portugal,,2022-05-15,2022-05-24,,,,,,,,,human,,5,,,,Europe,,,,ON585036,Monkeypox/PT0010/2022,,2022
 ,WA,Portugal,,2022-05-15,2022-05-24,,,,,,,,,human,,5,,,,Europe,,,,ON585038,Monkeypox/PT0008/2022,,2022
 ,WA,United Kingdom,,,,,,,,,,,,human,,,,,,Europe,,,,MT903345.1,MPXV-UK_P3,,2018
 ,WA,Germany,,2022-05-19,2022-05-23,,,,,,,,,human,,5,,,,Europe,,,,ON568298,MPXV-BY-IMB25241,,2022
-,WA,Israel,,2018-10-04,2019-12-07,,,,,,,,,human,,10,,,,West Asia,,,,MN648051,Israel_2018,,2018
-,WA,Slovenia,,2022-05-23,2022-05-26,,,,,,,,,human,,5,,,,Europe,,,,ON609725,SLO,,2022
+,WA,Portugal,,2022-05-15,2022-05-24,,,,,,,,,human,,5,,,,Europe,,,,ON585037,Monkeypox/PT0005/2022,,2022
+,WA,United Kingdom,,,,,,,,,,,,human,,,,,,Europe,,,,MT903343.1,MPXV-UK_P1,,2018
+,WA,Portugal,,2022-05-20,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON649715,Monkeypox/PT0017/2022,,2022
+,WA,Switzerland,,2022-05-19,2022-05-24,,,,,,,,,human,,5,,,,Europe,,,,ON595760,MPXV-CH-38134631/2022,,2022
 ,WA,Italy,,2022-05-18,2022-05-26,,,,,,,,,human,,5,,,,Europe,,,,ON614676,INMI-Pt1,,2022
-,WA,Belgium,,2022-05-19,2022-05-27,,,,,,,,,human,,5,,,,Europe,,,,ON622712,MPX/UZ_REGA_1/Belgium/2022,,2022
+,WA,United Kingdom,,,2022-05-27,,,,,,,,,human,,5,,,,Europe,,,,ON619836,MPXV_UK_2022_2,,2022
 ,WA,France,,,2022-05-25,,,,,,,,,human,,5,,,,Europe,,,,ON602722,MPXV_FRA_2022_TLS67,,2022
-,WA,United Kingdom,,,2022-05-27,,,,,,,,,human,,5,,,,Europe,,,,ON619835,MPXV_UK_2022_1,,2022
-,WA,United Kingdom,,,2022-05-27,,,,,,,,,human,,5,,,,Europe,,,,ON619837,MPXV_UK_2022_3,,2022
-,WA,Switzerland,,2022-05-24,2022-05-27,,,,,,,,,human,,5,,,,Europe,,,,ON622720,MPXV-CH-38156923/2022,,2022
-,WA,Finland,,2022-05-24,,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,mpx-37-Finland_consensus,,2022
-,WA,USA,,,2020-09-15,,,,,,,,,gambian rat,,,,,,North America,,,,MT903346,MPXV-USA2003_099_Gambian_Rat,,2003
-,WA,Portugal,,2022-05-20,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,Monkeypox/PT0015/2022,,2022
-,WA,France,,2022-05-22,2022-05-27,,,,,,,,,human,,5,,,,Europe,,,,ON622722,MPXV_FR_HCL0001_2022,,2022
+,WA,Spain,,,2022-05-27,,,,,,,,,human,,5,,,,Europe,,,,ON622718,MPXV/ES0001/HUGTiP/2022,,2022
 ,WA,Italy,,2022-05-25,2022-05-27,,,,,,,,,human,,5,,,,Europe,,,,ON622721,MPXV_1_IT_Milan_2022,,2022
-,WA,Nigeria,,2018-08-14,2020-09-15,,,,,,,,,human,,8,,,,Africa,,,,MT903341,MPXV-M5320_M15_Bayelsa,,2018
-,WA,USA,,2022-05-20,2022-05-29,,,,,,,,,human,,5,,,,North America,,,,ON627808,MPX/human/USA/UT-UPHL-82200022/2022,,2022
+,WA,Belgium,,2022-05-22,2022-05-27,,,,,,,,,human,,5,,,,Europe,,,,ON622713,MPX/UZ_REGA_2/Belgium/2022,,2022
 ,WA,Slovenia,,2022-05-24,2022-05-30,,,,,,,,,human,,5,,,,Europe,,,,ON631241,2022/2/SLO,,2022
-,WA,Australia,,,2022-05-31,,,,,,,,,human,,5,,,,Oceania,,,,ON631963,MPxV/VIDRL01/2022,,2022
-,WA,Germany,,,2022-05-31,,,,,,,,,human,,5,,,,Europe,,,,ON637939,MPXV/Germany/2022/RKI02,,2022
-,WA,Portugal,,2022-05-20,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,Monkeypox/PT0017/2022,,2022
-,WA,Portugal,,2022-05-19,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,Monkeypox/PT0023/2022,,2022
-,WA,Portugal,,2022-05-18,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,Monkeypox/PT0028/2022,,2022
-,WA,Portugal,,2022-05-18,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,Monkeypox/PT0026/2022,,2022
-,WA,Portugal,,2022-05-19,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,Monkeypox/PT0025/2022,,2022
-,WA,Portugal,,2022-05-20,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,Monkeypox/PT0018/2022,,2022
-,WA,Portugal,,2022-05-23,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,Monkeypox/PT0012/2022,,2022
-,WA,Portugal,,2022-05-19,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,Monkeypox/PT0020/2022,,2022
-,WA,Portugal,,2022-05-19,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,Monkeypox/PT0024/2022,,2022
-,WA,Portugal,,2022-05-20,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,Monkeypox/PT0013/2022,,2022
-,WA,Portugal,,2022-05-23,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,Monkeypox/PT0014/2022,,2022
-,WA,Portugal,,2022-05-23,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,XXXXXXXX,Monkeypox/PT0011/2022,,2022
+,WA,USA,,2022-05-20,2022-05-29,,,,,,,,,human,,5,,,,North America,,,,ON627808,MPX/human/USA/UT-UPHL-82200022/2022,,2022
+,WA,Portugal,,2022-05-19,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON649708,Monkeypox/PT0023/2022,,2022
+,WA,Portugal,,2022-05-19,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON649712,Monkeypox/PT0025/2022,,2022
+,WA,Italy,,2022-05-25,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON644344,MPXV_FVG-ITA_01_2022,,2022
+,WA,Portugal,,2022-05-23,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON649719,Monkeypox/PT0012/2022,,2022
+,WA,Portugal,,2022-05-19,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON649720,Monkeypox/PT0024/2022,,2022
+,WA,Portugal,,2022-05-19,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON649722,Monkeypox/PT0022/2022,,2022
+,WA,Portugal,,2022-05-23,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON649724,Monkeypox/PT0014/2022,,2022
+,WA,Portugal,,2022-05-20,2022-06-01,,,,,,,,,human,,5,,,,Europe,,,,ON649723,Monkeypox/PT0013/2022,,2022
+,WA,USA,,,2022-06-03,,,,,,,,,human,,5,,,,North America,,,,ON674051,MPXV_USA_2022_FL001,,2022
