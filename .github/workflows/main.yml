@@ -13,3 +13,4 @@ jobs:
       - name: Run
         run: |
           ./pipeline.sh
+      - uses: stefanzweifel/git-auto-commit-action@v4
