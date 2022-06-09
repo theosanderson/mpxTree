@@ -4,3 +4,5 @@ This is a tree of Monkeypox sequences, using metadata from [NextStrain](https://
 
 You can access it at 
 ## [mpx.taxonium.org](http://mpx.taxonium.org)
+
+It is in beta.
