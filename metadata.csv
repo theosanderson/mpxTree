@@ -1,488 +1,488 @@
 accession,age,clade,country,countryExposure,date,dateSubmitted,died,division,divisionExposure,fullyVaccinated,hospitalized,host,institution,lineage,location,month,region,regionExposure,samplingStrategy,sex,sraAccession,strain,year
-NC_063383,,hMPXV-1,Nigeria,,,2022-05-30,,Rivers,,,,Homo sapiens,,A,,8,Africa,,,,,MPXV-M5312_HM12_Rivers,2018
-KJ642614,,unassigned,Netherlands,,,2015-05-11,,South Holland,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,Rotterdam,,Europe,,,,,KJ642614,1965
-JX878421,,MPXV Clade 1,Democratic Republic of the Congo,,2007-03-22,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,3,Africa,,,,,DRC 07-0286,2007
-KJ136820,,MPXV Clade 2,Côte d'Ivoire,,,2014-03-30,,Bas-Sassandra,,,,Platyrrhini,"Centre for Biological Security, Robert Koch Institute, Germany",,Tai National Park,3,Africa,,,,,KJ136820,2012
-MN346692,,MPXV Clade 2,Côte d'Ivoire,,2017-03-05,2020-03-17,,,,,,Pan troglodytes verus,"Project Group Epidemiology of Highly Pathogenic Microorganisms, Robert Koch Institute, Germany",,,3,Africa,,,,,MPXV_TNP_2017_North_Mama,2017
-MN346691,,MPXV Clade 2,Côte d'Ivoire,,2017-03-11,2020-03-17,,,,,,,,,,3,Africa,,,,,MPXV_TNP_2017_North_Environmental,2017
+JX878428,,MPXV Clade 1,Democratic Republic of the Congo,,2007-06-30,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,6,Africa,,,,,DRC 07-0514,2007
+MG693725,,hMPXV-1,Nigeria,,,2018-02-06,,,,,,Homo sapiens,,A,,,Africa,,,,,MPX_Nig_2017_298481,2017
+MG693724,,hMPXV-1,Nigeria,,,2018-02-06,,,,,,Homo sapiens,,A,,,Africa,,,,,MPXV_Nig_2017_298464,2017
+MN346701,,MPXV Clade 2,Côte d'Ivoire,,2017-01-14,2020-03-17,,,,,,Pan troglodytes verus,,,,1,Africa,,,,,MPXV_TNP_2017_South_Woodstock,2017
+MN346699,,MPXV Clade 2,Côte d'Ivoire,,2017-01-23,2020-03-17,,,,,,Pan troglodytes verus,"Project Group Epidemiology of Highly Pathogenic Microorganisms, Robert Koch Institute, Germany",,,1,Africa,,,,,MPXV_TNP_2017_South_Ravel_1,2017
 MK783032,,hMPXV-1,Nigeria,,,2019-07-24,,Rivers,,,,Homo sapiens,"NCEZID/DHCPP/PRB, Centers for Disease Control & Prevention (US CDC), USA",A,,11,Africa,,,,,MK783032,2017
-MK783031,,hMPXV-1,Nigeria,,2017-11-09,2019-07-24,,Rivers,,,,Homo sapiens,"NCEZID/DHCPP/PRB, Centers for Disease Control & Prevention (US CDC), USA",A,,11,Africa,,,,,MK783031,2017
-MK783029,,hMPXV-1,Nigeria,,2017-12-06,2019-07-24,,Rivers,,,,Homo sapiens,"NCEZID/DHCPP/PRB, Centers for Disease Control & Prevention (US CDC), USA",A,,12,Africa,,,,,MK783029,2017
-MN346702,,MPXV Clade 2,Côte d'Ivoire,,2018-05-11,2020-03-17,,,,,,Pan troglodytes verus,"Project Group Epidemiology of Highly Pathogenic Microorganisms, Robert Koch Institute, Germany",,,5,Africa,,,,,MPXV_TNP_2018_East_Paddy,2018
-ON782022,,hMPXV-1,Finland,,2022-05-31,2022-06-16,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPX-42/Finland/2022,2022
-MT250197,,hMPXV-1,Singapore,,,2020-05-12,,,,,,Homo sapiens,,A.1,,,Asia,,,,,MT250197,2019
-ON853653,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI076,2022
-ON853655,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI088,2022
-ON853657,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI071,2022
-ON853661,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI079,2022
-ON853663,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI081,2022
-ON853666,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI084,2022
-ON853673,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI094,2022
+MK783030,,hMPXV-1,Nigeria,,2017-11-30,2019-07-24,,Rivers,,,,Homo sapiens,"NCEZID/DHCPP/PRB, Centers for Disease Control & Prevention (US CDC), USA",A,,11,Africa,,,,,MK783030,2017
+OL504741,,hMPXV-1,United Kingdom,,,2022-07-06,,,,,,,,A.1,,12,Europe,,,,,2091,2019
 OL504742,,hMPXV-1,United Kingdom,,,2022-07-06,,,,,,,,A.1,,12,Europe,,,,,2095,2019
-OL504743,,hMPXV-1,United Kingdom,,,2022-07-06,,,,,,,,A.1,,12,Europe,,,,,2102,2019
-ON880529,,hMPXV-1,Canada,,2022-05-28,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3153/2022,2022
-ON682266,,hMPXV-1,Germany,,,2022-06-06,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI09,2022
-ON682268,,hMPXV-1,Germany,,,2022-06-06,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI08,2022
-ON694334,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI021,2022
-ON694335,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI018,2022
-ON694339,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI016,2022
-ON853679,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI077,2022
-ON563414,,hMPXV-1,USA,,,2022-05-20,,Massachusetts,,,,Homo sapiens,"Division of High-Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",B.1,,5,North America,,,,,MPXV_USA_2022_MA001,2022
-ON615424,,hMPXV-1,Netherlands,,,2022-05-26,,,,,,Homo sapiens,"Public Health Virology, Erasmus Medical Centre, The Netherlands",B.1,,5,Europe,,,,,MPXV_2022_NL001,2022
+ON782022,,hMPXV-1,Finland,,2022-05-31,2022-06-16,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPX-42/Finland/2022,2022
+ON602722,,hMPXV-1,France,,,2022-05-25,,,,,,Homo sapiens,"IHAP, VIRAL, Universite de Toulouse, INRAE, ENVT, France",B.1,,5,Europe,,,,,MPXV_FRA_2022_TLS67,2022
 ON619836,,hMPXV-1,United Kingdom,,,2022-05-27,,,,,,Homo sapiens,"Research & Evaluation, UKHSA, UK",B.1,,5,Europe,,,,,MPXV_UK_2022_2,2022
-ON619838,,hMPXV-1,United Kingdom,,,2022-05-27,,,,,,Homo sapiens,"Research & Evaluation, UKHSA, UK",B.1,,5,Europe,,,,,MPXV_UK_2022_4,2022
-ON631963,,hMPXV-1,Australia,,,2022-05-31,,,,,,Homo sapiens,"Victorian Infectious Diseases Reference Laboratory, Doherty Institute, Australia",B.1,,5,Oceania,,,,,MPxV/VIDRL01/2022,2022
-ON808417,,hMPXV-1,United Kingdom,,2022-05-15,2022-06-21,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,CVR_MPXV1e,2022
-ON676703,,hMPXV-1,USA,,,2022-06-03,,California,,,,Homo sapiens,"Division of High-Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",B.1,,5,North America,,,,,MPXV_USA_2022_CA001,2022
-ON803416,,hMPXV-1,Canada,,2022-05-17,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2835/2022,2022
-ON676706,,hMPXV-1,USA,,,2022-06-03,,Utah,,,,Homo sapiens,"Division of High-Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",B.1,,5,North America,,,,,MPXV_USA_2022_UT002,2022
-ON682263,,hMPXV-1,Germany,,,2022-06-06,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI03,2022
-ON682264,,hMPXV-1,Germany,,,2022-06-06,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI05,2022
-ON682267,,hMPXV-1,Germany,,,2022-06-06,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI010,2022
-ON682269,,hMPXV-1,Germany,,,2022-06-06,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI07,2022
-ON853682,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI101,2022
-ON959136,,hMPXV-1,USA,,,2022-07-11,,New York,,,,Homo sapiens,,B.1,,6,North America,,,,,MPXV_USA_2022_NY005,2022
-ON694329,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI025,2022
-ON694331,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI015,2022
-ON694333,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI022,2022
-ON792322,,hMPXV-1,Switzerland,,2022-06-02,2022-06-17,,Zürich,,,,Homo sapiens,,B.1,,6,Europe,,,,,hMpxV/Switzerland/ZH-UZH-IMV-3ba64538/2022,2022
+ON619837,,hMPXV-1,United Kingdom,,,2022-05-27,,,,,,Homo sapiens,"Research & Evaluation, UKHSA, UK",B.1,,5,Europe,,,,,MPXV_UK_2022_3,2022
+JX878414,,MPXV Clade 1,Democratic Republic of the Congo,,2006-12-14,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,12,Africa,,,,,DRC 07-0046,2006
+JX878415,,MPXV Clade 1,Democratic Republic of the Congo,,2006-12-26,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,12,Africa,,,,,DRC 07-0092,2006
+JX878422,,MPXV Clade 1,Democratic Republic of the Congo,,2007-03-20,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,3,Africa,,,,,DRC 07-0287,2007
+JX878421,,MPXV Clade 1,Democratic Republic of the Congo,,2007-03-22,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,3,Africa,,,,,DRC 07-0286,2007
+JX878427,,MPXV Clade 1,Democratic Republic of the Congo,,2007-05-25,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,5,Africa,,,,,DRC 07-0480,2007
+JX878425,,MPXV Clade 1,Democratic Republic of the Congo,,2007-04-20,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,4,Africa,,,,,DRC 07-0354,2007
+ON676705,,hMPXV-1,USA,,,2022-06-03,,Utah,,,,Homo sapiens,"Division of High-Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",B.1,,5,North America,,,,,MPXV_USA_2022_UT001,2022
+HQ857563,,MPXV Clade 1,,,2007-10-30,2011-02-15,,,,,,,"Vaccine and Gene Therapy Institute, Oregon Health and Science University, USA",,,10,,,,,,HQ857563,2007
+JX878429,,MPXV Clade 1,Democratic Republic of the Congo,,2007-09-04,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,9,Africa,,,,,DRC 07-0662,2007
+KP849469,,MPXV Clade 1,Democratic Republic of the Congo,,,2015-05-13,,,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,,,Africa,,,,,Boende_DRC_2008,2008
+ON694332,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI023,2022
 ON694336,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI024,2022
-ON694340,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI014,2022
-ON694342,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI011,2022
 ON782021,,hMPXV-1,Finland,,2022-05-24,2022-06-16,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPX-37/Finland/2022,2022
-ON959133,,hMPXV-1,USA,,,2022-07-11,,New York,,,,Homo sapiens,,B.1,,5,North America,,,,,MPXV_USA_2022_NY002,2022
+ON755249,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI043,2022
+ON585029,,hMPXV-1,Portugal,,2022-05-04,2022-05-24,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0001/2022,2022
+ON880519,,hMPXV-1,Canada,,2022-05-13,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2833/2022,2022
 ON843163,,hMPXV-1,Portugal,,2022-05-13,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0048/2022,2022
-ON585030,,hMPXV-1,Portugal,,2022-05-15,2022-05-24,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0002/2022,2022
-ON585031,,hMPXV-1,Portugal,,2022-05-15,2022-05-24,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0003/2022,2022
 ON585036,,hMPXV-1,Portugal,,2022-05-15,2022-05-24,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0010/2022,2022
-ON585034,,hMPXV-1,Portugal,,2022-05-15,2022-05-24,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0007/2022,2022
-ON803417,,hMPXV-1,Canada,,2022-05-17,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2836/2022,2022
-ON649710,,hMPXV-1,Portugal,,2022-05-18,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0027/2022,2022
+ON755252,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI046,2022
+ON755253,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI047,2022
+ON755254,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI048,2022
+ON813251,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI051,2022
+ON808415,,hMPXV-1,United Kingdom,,2022-05-15,2022-06-21,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,CVR_MPXV1c,2022
+ON808416,,hMPXV-1,United Kingdom,,2022-05-15,2022-06-21,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,CVR_MPXV1d,2022
+ON803443,,hMPXV-1,Canada,,2022-05-16,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2975/2022,2022
+ON803416,,hMPXV-1,Canada,,2022-05-17,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2835/2022,2022
 ON843164,,hMPXV-1,Portugal,,2022-05-18,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0037/2022,2022
-ON649720,,hMPXV-1,Portugal,,2022-05-19,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0024/2022,2022
-ON649722,,hMPXV-1,Portugal,,2022-05-19,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0022/2022,2022
+ON649710,,hMPXV-1,Portugal,,2022-05-18,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0027/2022,2022
+ON649711,,hMPXV-1,Portugal,,2022-05-18,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0026/2022,2022
+ON755256,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI050,2022
+ON813253,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI053,2022
+ON813254,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI057,2022
+ON813255,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI058,2022
+ON813256,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI059,2022
+ON813257,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI060,2022
+ON813258,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI054,2022
+ON813261,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI061,2022
+ON813267,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI067,2022
+ON853649,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI068,2022
+ON853650,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI069,2022
+ON853653,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI076,2022
+ON853656,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI070,2022
 ON880520,,hMPXV-1,Canada,,2022-05-19,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2857/2022,2022
-ON803429,,hMPXV-1,Canada,,2022-05-19,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2873/2022,2022
 ON649715,,hMPXV-1,Portugal,,2022-05-20,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0017/2022,2022
 ON649714,,hMPXV-1,Portugal,,2022-05-20,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0015/2022,2022
-ON755040,,hMPXV-1,France,,2022-05-20,2022-06-14,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPXV_IRBA22-14,2022
+ON880521,,hMPXV-1,Canada,,2022-05-19,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2858/2022,2022
+ON649723,,hMPXV-1,Portugal,,2022-05-20,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0013/2022,2022
+MK783027,,hMPXV-1,Nigeria,,2017-11-09,2019-07-24,,Rivers,,,,Homo sapiens,,A,,11,Africa,,,,,MK783027,2017
+MK783028,,hMPXV-1,Nigeria,,2017-11-09,2019-07-24,,Rivers,,,,Homo sapiens,"NCEZID/DHCPP/PRB, Centers for Disease Control & Prevention (US CDC), USA",A,,11,Africa,,,,,MK783028,2017
+ON803435,,hMPXV-1,Canada,,2022-05-20,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2893/2022,2022
+MT724769,,MPXV Clade 2,Democratic Republic of the Congo,,2012-01-01,2021-03-28,,,,,,Malacomys longipes,"Biology, Universiteit Antwerpen, Belgium",,,1,Africa,,,,,MT724769,2012
+ON803438,,hMPXV-1,Canada,,2022-05-20,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2897/2022,2022
 ON838940,,hMPXV-1,Spain,,2022-05-20,2022-06-24,,Madrid,,,,Homo sapiens,,B.1,,5,Europe,,,,"SRR19793483, SRR19793482",4061,2022
+KJ136820,,MPXV Clade 2,Côte d'Ivoire,,,2014-03-30,,Bas-Sassandra,,,,Platyrrhini,"Centre for Biological Security, Robert Koch Institute, Germany",,Tai National Park,3,Africa,,,,,KJ136820,2012
 ON803428,,hMPXV-1,Canada,,2022-05-21,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2869/2022,2022
+ON649717,,hMPXV-1,Portugal,,2022-05-21,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0019/2022,2022
 ON880506,,hMPXV-1,Canada,,2022-05-22,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2959/2022,2022
 ON649716,,hMPXV-1,Portugal,,2022-05-23,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0016/2022,2022
-ON649724,,hMPXV-1,Portugal,,2022-05-23,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0014/2022,2022
-ON649725,,hMPXV-1,Portugal,,2022-05-23,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0011/2022,2022
 ON622720,,hMPXV-1,Switzerland,,2022-05-24,2022-05-27,,,,,,Homo sapiens,"Laboratory of Viorology, University Hospital of Geneva, Switzerland",B.1,,5,Europe,,,,,MPXV-CH-38156923/2022,2022
 ON622721,,hMPXV-1,Italy,,2022-05-25,2022-05-27,,,,,,Homo sapiens,"Department of Biomedical & Clinical Sciences, University of Milan, Italy",B.1,,5,Europe,,,,,MPXV_1_IT_Milan_2022,2022
+ON803444,,hMPXV-1,Canada,,2022-05-24,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2969/2022,2022
 ON880525,,hMPXV-1,Canada,,2022-05-25,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3086/2022,2022
-ON843177,,hMPXV-1,Portugal,,2022-06-02,2022-06-24,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,Monkeypox/PT0047/2022,2022
-ON843170,,hMPXV-1,Portugal,,2022-05-26,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0031/2022,2022
 ON843171,,hMPXV-1,Portugal,,2022-05-26,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0030/2022,2022
-ON880507,,hMPXV-1,Canada,,2022-05-27,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3071/2022,2022
-ON880419,,hMPXV-1,Belgium,,2022-05-27,2022-06-30,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPX/UZ_REGA_3/Belgium/2022,2022
+MT724770,,MPXV Clade 1,Democratic Republic of the Congo,,2014-01-01,2021-03-28,,,,,,Crocidura littoralis,"Biology, Universiteit Antwerpen, Belgium",,,1,Africa,,,,,MT724770,2014
 ON880528,,hMPXV-1,Canada,,2022-05-27,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3147/2022,2022
-ON880517,,hMPXV-1,Canada,,2022-05-27,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3476/2022,2022
+ON853660,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI078,2022
+ON853664,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI082,2022
+ON853666,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI084,2022
+ON853670,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI090,2022
 ON843175,,hMPXV-1,Portugal,,2022-05-30,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0043/2022,2022
-ON880530,,hMPXV-1,Canada,,2022-05-29,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3162/2022,2022
 ON872184,,hMPXV-1,Ireland,,2022-05-30,2022-06-29,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,ON872184,2022
-ON880511,,hMPXV-1,Canada,,2022-05-30,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3214/2022,2022
 ON880532,,hMPXV-1,Canada,,2022-05-30,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3253/2022,2022
 ON880535,,hMPXV-1,Canada,,2022-05-31,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3269/2022,2022
 ON782055,,hMPXV-1,Spain,,2022-05-31,2022-06-16,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPXV/Spain/HUNSC_ITER_0001b/2022,2022
-ON880536,,hMPXV-1,Canada,,2022-05-31,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3272/2022,2022
 ON755231,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI013,2022
-ON755232,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI026,2022
-ON755234,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI028,2022
-ON755236,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI030,2022
-ON813252,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI052,2022
-ON813264,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI064,2022
+ON755238,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI032,2022
+ON755246,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI040,2022
+ON853675,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI096,2022
+ON755250,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI044,2022
+MK783031,,hMPXV-1,Nigeria,,2017-11-09,2019-07-24,,Rivers,,,,Homo sapiens,"NCEZID/DHCPP/PRB, Centers for Disease Control & Prevention (US CDC), USA",A,,11,Africa,,,,,MK783031,2017
+MK783029,,hMPXV-1,Nigeria,,2017-12-06,2019-07-24,,Rivers,,,,Homo sapiens,"NCEZID/DHCPP/PRB, Centers for Disease Control & Prevention (US CDC), USA",A,,12,Africa,,,,,MK783029,2017
+MN702448,,MPXV Clade 1,Central African Republic,,2018-03-07,2020-08-29,,,,,,Homo sapiens,"Virology, Centre International de Recherches Medicales de Franceville, CIRMF, Gabon",,,3,Africa,,,,,MN702448,2018
+MN702447,,MPXV Clade 1,Central African Republic,,2018-03-20,2020-08-29,,,,,,Homo sapiens,"Virology, Centre International de Recherches Medicales de Franceville, CIRMF, Gabon",,,3,Africa,,,,,MN702447,2018
+MN702446,,MPXV Clade 1,Central African Republic,,2018-04-14,2020-08-29,,,,,,Homo sapiens,"Virology, Centre International de Recherches Medicales de Franceville, CIRMF, Gabon",,,4,Africa,,,,,MN702446,2018
 ON813262,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI062,2022
-ON838178,,hMPXV-1,Slovenia,,,2022-06-24,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,SI2022_S7,2022
-ON813266,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI056,2022
-ON853650,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI069,2022
-ON853656,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI070,2022
-ON983163,,hMPXV-1,Canada,,2022-06-07,2022-07-14,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3532/2022,2022
-ON911481,,hMPXV-1,Mexico,,2022-06-28,2022-07-04,,Nuevo Leon,,,,Homo sapiens,,B.1,,6,North America,,,,,Monkeypox/MX-UANL001/2022,2022
-ON853660,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI078,2022
-ON929064,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI106,2022
-ON929065,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI107,2022
-ON853669,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI089,2022
-ON929074,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI119,2022
-ON929087,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI132,2022
-ON853672,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI093,2022
-ON614676,,hMPXV-1,Italy,,2022-05-18,2022-05-26,,,,,,Homo sapiens,"Laboratory of Virology, INMI Lazzaro Spallanzani IRCCS, Italy",B.1,,5,Europe,,,,,INMI-Pt1,2022
-ON649709,,hMPXV-1,Portugal,,2022-05-18,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0028/2022,2022
-ON853677,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI099,2022
-ON959160,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI146,2022
-ON959162,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI148,2022
-ON959168,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI154,2022
-ON959169,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI155,2022
+ON813263,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI063,2022
+ON682266,,hMPXV-1,Germany,,,2022-06-06,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI09,2022
+ON682269,,hMPXV-1,Germany,,,2022-06-06,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI07,2022
+ON682270,,hMPXV-1,Germany,,,2022-06-06,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI06,2022
+ON694330,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI019,2022
+ON694334,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI021,2022
+ON853680,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI097,2022
+ON694341,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI012,2022
+ON694342,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI011,2022
+ON959131,,hMPXV-1,USA,,,2022-07-11,,Illinois,,,,Homo sapiens,,B.1,,5,North America,,,,,MPXV_USA_2022_IL001,2022
+ON959133,,hMPXV-1,USA,,,2022-07-11,,New York,,,,Homo sapiens,,B.1,,5,North America,,,,,MPXV_USA_2022_NY002,2022
+ON853681,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI092,2022
+ON585038,,hMPXV-1,Portugal,,2022-05-15,2022-05-24,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0008/2022,2022
+ON808413,,hMPXV-1,United Kingdom,,2022-05-15,2022-06-21,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,CVR_MPXV1a,2022
+ON918656,,hMPXV-1,Taiwan,,,2022-07-05,,,,,,Homo sapiens,,B.1,,6,Asia,,,,,MPXV/human/Taiwan/110-231642/2022,2022
+ON853673,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI094,2022
+ON808417,,hMPXV-1,United Kingdom,,2022-05-15,2022-06-21,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,CVR_MPXV1e,2022
+ON803442,,hMPXV-1,Canada,,2022-05-16,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2967/2022,2022
+ON853676,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI098,2022
+ON792320,,hMPXV-1,Switzerland,,2022-06-01,2022-06-17,,Zürich,,,,Homo sapiens,,B.1,,6,Europe,,,,,hMpxV/Switzerland/ZH-UZH-IMV-3ba6449f/2022,2022
+ON959136,,hMPXV-1,USA,,,2022-07-11,,New York,,,,Homo sapiens,,B.1,,6,North America,,,,,MPXV_USA_2022_NY005,2022
+ON880512,,hMPXV-1,Canada,,2022-06-01,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3292/2022,2022
+ON880540,,hMPXV-1,Canada,,2022-06-01,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3342/2022,2022
+ON792322,,hMPXV-1,Switzerland,,2022-06-02,2022-06-17,,Zürich,,,,Homo sapiens,,B.1,,6,Europe,,,,,hMpxV/Switzerland/ZH-UZH-IMV-3ba64538/2022,2022
+ON843176,,hMPXV-1,Portugal,,2022-06-02,2022-06-24,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,Monkeypox/PT0041/2022,2022
 ON983159,,hMPXV-1,Canada,,2022-06-01,2022-07-14,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3293/2022,2022
 ON792321,,hMPXV-1,Switzerland,,2022-06-02,2022-06-17,,Zürich,,,,Homo sapiens,,B.1,,6,Europe,,,,,hMpxV/Switzerland/ZH-UZH-IMV-3ba6450e/2022,2022
-ON880541,,hMPXV-1,Canada,,2022-06-01,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3344/2022,2022
-ON843176,,hMPXV-1,Portugal,,2022-06-02,2022-06-24,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,Monkeypox/PT0041/2022,2022
-ON843179,,hMPXV-1,Portugal,,2022-06-02,2022-06-24,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,Monkeypox/PT0039/2022,2022
-ON880516,,hMPXV-1,Canada,,2022-06-02,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3472/2022,2022
+ON843177,,hMPXV-1,Portugal,,2022-06-02,2022-06-24,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,Monkeypox/PT0047/2022,2022
+MT903341,,hMPXV-1,Nigeria,,2018-08-14,2020-09-15,,Bayelsa State,,,,Homo sapiens,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A.1,,8,Africa,,,,,MPXV-M5320_M15_Bayelsa,2018
+ON880543,,hMPXV-1,Canada,,2022-06-02,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3357/2022,2022
 ON843180,,hMPXV-1,Portugal,,2022-06-03,2022-06-24,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,Monkeypox/PT0042/2022,2022
-ON983160,,hMPXV-1,Canada,,2022-06-03,2022-07-14,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3393/2022,2022
-ON983161,,hMPXV-1,Canada,,2022-06-03,2022-07-14,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3530/2022,2022
-ON754989,,hMPXV-1,Canada,,2022-06-06,2022-06-14,,,,,,Homo sapiens,,B.1,,6,North America,,,,,mpx_2022_Canada_AB2,2022
-ON751962,,hMPXV-1,Brazil,,2022-06-07,2022-06-13,,,,,,Homo sapiens,,B.1,,6,South America,,,,,Monkeypox/BR0001/2022,2022
-ON880518,,hMPXV-1,Canada,,2022-06-08,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3486/2022,2022
+ON880548,,hMPXV-1,Canada,,2022-06-03,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3448/2022,2022
+ON880549,,hMPXV-1,Canada,,2022-06-03,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3450/2022,2022
 ON843181,,hMPXV-1,Portugal,,2022-06-06,2022-06-24,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,Monkeypox/PT0045/2022,2022
+ON754989,,hMPXV-1,Canada,,2022-06-06,2022-06-14,,,,,,Homo sapiens,,B.1,,6,North America,,,,,mpx_2022_Canada_AB2,2022
+ON880514,,hMPXV-1,Canada,,2022-06-04,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3412/2022,2022
+ON880518,,hMPXV-1,Canada,,2022-06-08,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3486/2022,2022
+ON983164,,hMPXV-1,Canada,,2022-06-09,2022-07-14,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3558/2022,2022
 ON983166,,hMPXV-1,Canada,,2022-06-15,2022-07-14,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3702/2022,2022
-ON983167,,hMPXV-1,Canada,,2022-06-16,2022-07-14,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3725/2022,2022
-ON927243,,hMPXV-1,Spain,,2022-06-21,2022-07-06,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MpxV/Spain/MD-HGUGM-6642566/2022,2022
-ON929062,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI104,2022
+ON929061,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI103,2022
+ON929065,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI107,2022
 ON929066,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI108,2022
-ON929067,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI109,2022
-ON929081,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI126,2022
+ON929068,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI110,2022
+ON929069,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI111,2022
+ON929070,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI112,2022
+ON929071,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI113,2022
+ON929074,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI119,2022
+ON929075,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI120,2022
+ON929082,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI127,2022
+ON929083,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI128,2022
+ON929086,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI131,2022
 ON929088,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI133,2022
-ON929090,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI135,2022
-ON929091,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI136,2022
-ON959149,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI140,2022
 ON959150,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI145,2022
-ON959153,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI165,2022
-ON959154,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI137,2022
-ON959157,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI142,2022
-ON959163,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI149,2022
+ON959158,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI143,2022
+ON959160,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI146,2022
+ON959161,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI147,2022
 ON959164,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI150,2022
 ON959165,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI151,2022
 ON959167,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI153,2022
-MT903338,,hMPXV-1,Nigeria,,,2020-09-15,,Lagos,,,,Homo sapiens,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A,,,Africa,,,,,MPXV-M2957_Lagos,
+ON959168,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI154,2022
+ON959171,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI157,2022
+ON959172,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI158,2022
+ON959173,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI159,2022
+ON959174,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI161,2022
+ON649709,,hMPXV-1,Portugal,,2022-05-18,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0028/2022,2022
+ON803427,,hMPXV-1,Canada,,2022-05-18,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2861/2022,2022
+ON568298,,hMPXV-1,Germany,,2022-05-19,2022-05-23,,,,,,Homo sapiens,"Microbiol Genomics & Bioinformatics, Bundeswehr Institute of Microbiology, Germany",B.1,,5,Europe,,,,,MPXV-BY-IMB25241,2022
+ON843179,,hMPXV-1,Portugal,,2022-06-02,2022-06-24,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,Monkeypox/PT0039/2022,2022
+FV537349,,MPXV Clade 1,,,,2010-03-18,,,,,,,"Genetics Signatures, Sydney, Australia",,,,,,,,,FV537349,
 MT903342,,hMPXV-1,Singapore,,,2020-09-15,,,,,,Homo sapiens,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A.1,,5,Asia,,,,,MPXV-Singapore,2019
-MT903341,,hMPXV-1,Nigeria,,2018-08-14,2020-09-15,,Bayelsa State,,,,Homo sapiens,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A.1,,8,Africa,,,,,MPXV-M5320_M15_Bayelsa,2018
-MT903346,,MPXV Clade 2,USA,,,2020-09-15,,,,,,Cricetomys gambianus,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",,,,North America,,,,,MPXV-USA2003_099_Gambian_Rat,2003
-NC_003310,,MPXV Clade 1,Democratic Republic of the Congo,,,2001-12-12,,,,,,,"Department of Molecular Biology of Genomes, SRC VB Vector, Russia",,,,Africa,,,,,NC_003310,
-KJ642615,,MPXV Clade 3,Nigeria,,,2015-05-11,,,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,,,Africa,,,,,KJ642615,1978
-KP849470,,MPXV Clade 2,Côte d'Ivoire,,,2015-05-13,,,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,,,Africa,,,,,Cote d'Ivoire_1971,1971
-JX878408,,MPXV Clade 1,Democratic Republic of the Congo,,2006-10-31,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,10,Africa,,,,,DRC 06-0970,2006
+MT903343,,hMPXV-1,United Kingdom,,,2020-09-15,,Great Britain,,,,Homo sapiens,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A.1,,9,Europe,,,,,MPXV-UK_P1,2018
+MT724772,,MPXV Clade 1,Democratic Republic of the Congo,,2014-01-01,2021-03-28,,,,,,Funisciurus anerythrus,"Biology, Universiteit Antwerpen, Belgium",,,1,Africa,,,,,MT724772,2014
+MN702450,,MPXV Clade 1,Central African Republic,,2016-01-01,2020-08-29,,,,,,Homo sapiens,"Virology, Centre International de Recherches Medicales de Franceville, CIRMF, Gabon",,,1,Africa,,,,,MN702450,2016
+MG693723,,hMPXV-1,Nigeria,,,2018-02-06,,,,,,Homo sapiens,,A,,,Africa,,,,,MPXV_Nig_2017_297957,2018
+KJ642614,,unassigned,Netherlands,,,2015-05-11,,South Holland,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,Rotterdam,,Europe,,,,,KJ642614,1965
+ON803430,,hMPXV-1,Canada,,2022-05-19,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2874/2022,2022
+KJ642617,,MPXV Clade 3,Nigeria,,,2015-05-11,,,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,,,Africa,,,,,KJ642617,1971
+KJ642616,,MPXV Clade 2,France,,,2015-05-11,,Ile de France,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,Paris FR,,Europe,,,,,KJ642616,1968
+MN702453,,MPXV Clade 1,Central African Republic,,2001-08-11,2020-08-29,,,,,,Homo sapiens,"Virology, Centre International de Recherches Medicales de Franceville, CIRMF, Gabon",,,8,Africa,,,,,MN702453,2001
+JX878411,,MPXV Clade 1,Democratic Republic of the Congo,,2006-11-30,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,11,Africa,,,,,DRC 06-1075,2006
 KC257459,,MPXV Clade 1,Sudan,,,2013-02-20,,Nuria,,,,Homo sapiens,"Biochemistry & Microbiology, University of Victoria, Canada",,,,Africa,,,,,KC257459,2005
-JX878412,,MPXV Clade 1,Democratic Republic of the Congo,,2006-11-30,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,11,Africa,,,,,DRC 06-1076,2006
-JX878415,,MPXV Clade 1,Democratic Republic of the Congo,,2006-12-26,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,12,Africa,,,,,DRC 07-0092,2006
+JX878417,,MPXV Clade 1,Democratic Republic of the Congo,,2006-12-14,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,12,Africa,,,,,DRC 07-0104,2006
 JX878420,,MPXV Clade 1,Democratic Republic of the Congo,,2007-02-26,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,2,Africa,,,,,DRC 07-0283,2007
-HQ857563,,MPXV Clade 1,,,2007-10-30,2011-02-15,,,,,,,"Vaccine and Gene Therapy Institute, Oregon Health and Science University, USA",,,10,,,,,,HQ857563,2007
-KP849469,,MPXV Clade 1,Democratic Republic of the Congo,,,2015-05-13,,,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,,,Africa,,,,,Boende_DRC_2008,2008
 MN702452,,MPXV Clade 1,Central African Republic,,2010-08-10,2020-08-29,,,,,,Homo sapiens,"Virology, Centre International de Recherches Medicales de Franceville, CIRMF, Gabon",,,8,Africa,,,,,MN702452,2010
 MT724771,,MPXV Clade 1,Democratic Republic of the Congo,,2014-01-01,2021-03-28,,,,,,Funisciurus bayonii,"Biology, Universiteit Antwerpen, Belgium",,,1,Africa,,,,,MT724771,2014
-MT724772,,MPXV Clade 1,Democratic Republic of the Congo,,2014-01-01,2021-03-28,,,,,,Funisciurus anerythrus,"Biology, Universiteit Antwerpen, Belgium",,,1,Africa,,,,,MT724772,2014
-MN702449,,MPXV Clade 1,Central African Republic,,2016-01-02,2020-08-29,,,,,,Homo sapiens,"Virology, Centre International de Recherches Medicales de Franceville, CIRMF, Gabon",,,1,Africa,,,,,MN702449,2016
 MN346698,,MPXV Clade 2,Côte d'Ivoire,,2017-01-24,2020-03-17,,,,,,Pan troglodytes verus,"Project Group Epidemiology of Highly Pathogenic Microorganisms, Robert Koch Institute, Germany",,,1,Africa,,,,,MPXV_TNP_2017_South_Pushkin,2017
+ON627808,,hMPXV-1,USA,,2022-05-20,2022-05-29,,,,,,Homo sapiens,"Department of Health, Utah Public Health Laboratory, USA",B.1,,5,North America,,,,,MPX/human/USA/UT-UPHL-82200022/2022,2022
+ON649879,,hMPXV-1,Israel,,2022-05-20,2022-06-01,,,,,,Homo sapiens,"Biochemistry & Molecular Genetics, Israel Institute for Biological Research, Israel",B.1,,5,Asia,,,,,MPXV_ISR001_2022,2022
+ON803431,,hMPXV-1,Canada,,2022-05-20,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2883/2022,2022
+ON755040,,hMPXV-1,France,,2022-05-20,2022-06-14,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPXV_IRBA22-14,2022
 MN346700,,MPXV Clade 2,Côte d'Ivoire,,2017-01-31,2020-03-17,,,,,,Pan troglodytes verus,"Project Group Epidemiology of Highly Pathogenic Microorganisms, Robert Koch Institute, Germany",,,1,Africa,,,,,MPXV_TNP_2017_South_Ravel_2,2017
-MN346697,,MPXV Clade 2,Côte d'Ivoire,,2017-04-14,2020-03-17,,,,,,Pan troglodytes verus,,,,4,Africa,,,,,MPXV_TNP_2017_North_Surprise_2,2017
-MN346693,,unassigned,Côte d'Ivoire,,2017-04-08,2020-03-17,,,,,,Pan troglodytes verus,"Project Group Epidemiology of Highly Pathogenic Microorganisms, Robert Koch Institute, Germany",,,4,Africa,,,,,MPXV_TNP_2017_North_Ponan,2017
+MN346692,,MPXV Clade 2,Côte d'Ivoire,,2017-03-05,2020-03-17,,,,,,Pan troglodytes verus,"Project Group Epidemiology of Highly Pathogenic Microorganisms, Robert Koch Institute, Germany",,,3,Africa,,,,,MPXV_TNP_2017_North_Mama,2017
+MN346690,,MPXV Clade 2,Côte d'Ivoire,,2017-03-13,2020-03-17,,,,,,Pan troglodytes verus,"Project Group Epidemiology of Highly Pathogenic Microorganisms, Robert Koch Institute, Germany",,,3,Africa,,,,,MPXV_TNP_2017_North_Bic,2017
+MN346694,,MPXV Clade 2,Côte d'Ivoire,,2017-03-28,2020-03-17,,,,,,Pan troglodytes verus,"Project Group Epidemiology of Highly Pathogenic Microorganisms, Robert Koch Institute, Germany",,,3,Africa,,,,,MPXV_TNP_2017_North_Saro,2017
 MN346695,,MPXV Clade 2,Côte d'Ivoire,,2017-04-02,2020-03-17,,,,,,Pan troglodytes verus,"Project Group Epidemiology of Highly Pathogenic Microorganisms, Robert Koch Institute, Germany",,,4,Africa,,,,,MPXV_TNP_2017_North_Sidonie,2017
-MN702451,,MPXV Clade 1,Central African Republic,,2017-04-14,2020-08-29,,,,,,Homo sapiens,"Virology, Centre International de Recherches Medicales de Franceville, CIRMF, Gabon",,,4,Africa,,,,,MN702451,2017
-ON676708,,hMPXV-1,USA,,,2022-06-03,,Maryland,,,,Homo sapiens,"Division of High-Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A.1.1,,11,North America,,,,,MPXV_USA_2021_MD,2021
-ON602722,,hMPXV-1,France,,,2022-05-25,,,,,,Homo sapiens,"IHAP, VIRAL, Universite de Toulouse, INRAE, ENVT, France",B.1,,5,Europe,,,,,MPXV_FRA_2022_TLS67,2022
-ON694337,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI020,2022
+MN346696,,MPXV Clade 2,Côte d'Ivoire,,2017-04-03,2020-03-17,,,,,,Pan troglodytes verus,"Project Group Epidemiology of Highly Pathogenic Microorganisms, Robert Koch Institute, Germany",,,4,Africa,,,,,MPXV_TNP_2017_North_Surprise_1,2017
+MN346702,,MPXV Clade 2,Côte d'Ivoire,,2018-05-11,2020-03-17,,,,,,Pan troglodytes verus,"Project Group Epidemiology of Highly Pathogenic Microorganisms, Robert Koch Institute, Germany",,,5,Africa,,,,,MPXV_TNP_2018_East_Paddy,2018
+ON880534,,hMPXV-1,Canada,,2022-05-30,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3262/2022,2022
+ON676703,,hMPXV-1,USA,,,2022-06-03,,California,,,,Homo sapiens,"Division of High-Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",B.1,,5,North America,,,,,MPXV_USA_2022_CA001,2022
+ON676706,,hMPXV-1,USA,,,2022-06-03,,Utah,,,,Homo sapiens,"Division of High-Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",B.1,,5,North America,,,,,MPXV_USA_2022_UT002,2022
+ON682263,,hMPXV-1,Germany,,,2022-06-06,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI03,2022
+ON682264,,hMPXV-1,Germany,,,2022-06-06,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI05,2022
 ON954773,,hMPXV-1,USA,,,2022-07-09,,California,,,,Homo sapiens,,B.1,,5,North America,,,,,MPXV_USA_2022_CA002,2022
+ON645312,,hMPXV-1,United Kingdom,,2022-05-11,2022-06-01,,,,,,Homo sapiens,"Centre for Clinical Infection & Diagnostics Research, Kings College London, St Thomas Hospital, UK",B.1,,5,Europe,,,,,MPXV_GSTT_Patient1,2022
+ON803419,,hMPXV-1,Canada,,2022-05-14,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2844/2022,2022
+ON808414,,hMPXV-1,United Kingdom,,2022-05-15,2022-06-21,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,CVR_MPXV1b,2022
 ON585032,,hMPXV-1,Portugal,,2022-05-17,2022-05-24,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0004/2022,2022
-ON803443,,hMPXV-1,Canada,,2022-05-16,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2975/2022,2022
+ON595760,,hMPXV-1,Switzerland,,2022-05-19,2022-05-24,,,,,,Homo sapiens,"Laboratory of Viorology, University Hospital of Geneva, Switzerland",B.1,,5,Europe,,,,,MPXV-CH-38134631/2022,2022
+ON803422,,hMPXV-1,Canada,,2022-05-19,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2850/2022,2022
 ON803426,,hMPXV-1,Canada,,2022-05-19,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2856/2022,2022
+ON649718,,hMPXV-1,Portugal,,2022-05-20,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0018/2022,2022
+ON803415,,hMPXV-1,Canada,,2022-05-20,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2936/2022,2022
+ON803434,,hMPXV-1,Canada,,2022-05-20,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2886/2022,2022
 ON803433,,hMPXV-1,Canada,,2022-05-20,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2885/2022,2022
-ON803435,,hMPXV-1,Canada,,2022-05-20,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2893/2022,2022
-ON649711,,hMPXV-1,Portugal,,2022-05-18,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0026/2022,2022
+ON803432,,hMPXV-1,Canada,,2022-05-20,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2884/2022,2022
 ON803436,,hMPXV-1,Canada,,2022-05-20,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2894/2022,2022
+ON803439,,hMPXV-1,Canada,,2022-05-20,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2899/2022,2022
+ON803437,,hMPXV-1,Canada,,2022-05-20,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2896/2022,2022
 ON880505,,hMPXV-1,Canada,,2022-05-20,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2906/2022,2022
 ON880523,,hMPXV-1,Canada,,2022-05-20,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2898/2022,2022
-ON843168,,hMPXV-1,Portugal,,2022-05-26,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0032/2022,2022
-ON880524,,hMPXV-1,Canada,,2022-05-26,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3080/2022,2022
+ON803414,,hMPXV-1,Canada,,2022-05-21,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2930/2022,2022
+ON880522,,hMPXV-1,Canada,,2022-05-21,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2870/2022,2022
+ON609725,,hMPXV-1,Slovenia,,2022-05-23,2022-05-26,,,,,,Homo sapiens,"Laboratory for Diagnostics of Zoonoses & WHO Centre, Institute of Microbiology & Immunology, Faculty of Medicine, University of Ljubljana, Slovenia",B.1,,5,Europe,,,,,SLO,2022
+ON754987,,hMPXV-1,Slovenia,,2022-05-23,2022-06-14,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPXV_SI2022_S1_VEROE6,2022
+ON631241,,hMPXV-1,Slovenia,,2022-05-24,2022-05-30,,,,,,Homo sapiens,"Laboratory for Diagnostics of Zoonoses & WHO Centre, Institute of Microbiology & Immunology, Faculty of Medicine, University of Ljubljana, Slovenia",B.1,,5,Europe,,,,,2022/2 SLO,2022
+ON843165,,hMPXV-1,Portugal,,2022-05-24,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0033/2022,2022
+ON644344,,hMPXV-1,Italy,,2022-05-25,2022-06-01,,Friuli Venezia Giulia,,,,Homo sapiens,"Genomics & Epigenomics, AREA Science Park, Italy",B.1,Gorizia,5,Europe,,,,,MPXV_FVG-ITA_01_2022,2022
+ON745225,,hMPXV-1,Spain,,2022-05-27,2022-06-13,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MpxV/Spain/MD-HGUGM-66649483/2022,2022
+ON843173,,hMPXV-1,Portugal,,2022-05-27,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0029/2022,2022
+ON880422,,hMPXV-1,Belgium,,2022-05-27,2022-06-30,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPX/UZ_REGA_6/Belgium/2022,2022
 ON880527,,hMPXV-1,Canada,,2022-05-27,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3141/2022,2022
 ON880509,,hMPXV-1,Canada,,2022-05-29,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3137/2022,2022
 ON880531,,hMPXV-1,Canada,,2022-05-29,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3165/2022,2022
+ON843182,,hMPXV-1,Portugal,,2022-05-30,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0044/2022,2022
+ON880508,,hMPXV-1,Canada,,2022-05-30,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3127/2022,2022
+ON782054,,hMPXV-1,Spain,,2022-05-31,2022-06-16,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPXV/Spain/HUNSC_ITER_0001a/2022,2022
 ON880510,,hMPXV-1,Canada,,2022-05-31,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3193/2022,2022
+ON755248,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI042,2022
+ON755251,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI045,2022
 ON755255,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI049,2022
+MT903347,,MPXV Clade 2,USA,,,2020-09-15,,,,,,Gliridae,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",,,,North America,,,,,MPXV-USA2003_099_Dormouse,2003
+ON813252,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI052,2022
+MT903348,,MPXV Clade 2,USA,,,2020-09-15,,,,,,Funisciurus,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",,,,North America,,,,,MPXV-USA2003_099_Rope_Squirrel,2003
+ON813259,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI055,2022
+ON853657,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI071,2022
+ON853661,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI079,2022
 ON853662,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI080,2022
-ON853664,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI082,2022
-ON853670,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI090,2022
-ON880512,,hMPXV-1,Canada,,2022-06-01,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3292/2022,2022
-ON880538,,hMPXV-1,Canada,,2022-06-01,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3336/2022,2022
+ON853677,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI099,2022
+ON853682,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI101,2022
+ON959132,,hMPXV-1,USA,,,2022-07-11,,Illinois,,,,Homo sapiens,,B.1,,6,North America,,,,,MPXV_USA_2022_IL003,2022
 ON880539,,hMPXV-1,Canada,,2022-06-01,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3339/2022,2022
-ON880540,,hMPXV-1,Canada,,2022-06-01,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3342/2022,2022
-ON880543,,hMPXV-1,Canada,,2022-06-02,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3357/2022,2022
+ON880541,,hMPXV-1,Canada,,2022-06-01,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3344/2022,2022
+ON843178,,hMPXV-1,Portugal,,2022-06-02,2022-06-24,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,Monkeypox/PT0040/2022,2022
+ON780017,,hMPXV-1,Italy,,2022-05-21,2022-06-16,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,INMI-Pt4,2022
+ON803413,,hMPXV-1,Canada,,2022-05-21,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2928/2022,2022
+ON622722,,hMPXV-1,France,,2022-05-22,2022-05-27,,,,,,Homo sapiens,"Virology, GENomique EPIdemiologique das maladies Infectieuses, France",B.1,,5,Europe,,,,,MPXV_FR_HCL0001_2022,2022
 ON880544,,hMPXV-1,Canada,,2022-06-02,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3363/2022,2022
-ON880545,,hMPXV-1,Canada,,2022-06-02,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3366/2022,2022
-ON880548,,hMPXV-1,Canada,,2022-06-03,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3448/2022,2022
-ON880549,,hMPXV-1,Canada,,2022-06-03,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3450/2022,2022
-ON880513,,hMPXV-1,Canada,,2022-06-04,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3407/2022,2022
-ON929057,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI070,2022
-ON929061,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI103,2022
-ON929068,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI110,2022
-ON929078,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI123,2022
-ON929082,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI127,2022
-ON929089,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI134,2022
-ON959158,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI143,2022
-ON959166,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI152,2022
-ON959173,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI159,2022
-ON959172,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI158,2022
-ON959174,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI161,2022
-ON959175,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI162,2022
-ON959177,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI164,2022
+ON929072,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI114,2022
+ON929079,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI124,2022
+ON929080,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI125,2022
+ON959152,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI139,2022
+ON959157,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI142,2022
 AF380138,,MPXV Clade 1,,,,2001-12-12,,,,,,,,,,,,,,,,AF380138,
-AY603973,,MPXV Clade 2,,,,2004-12-30,,,,,,,"Biochemistry & Microbiology, University of Victoria, Canada",,,,,,,,,AY603973,1961
-AY741551,,MPXV Clade 2,Sierra Leone,,,2005-09-07,,,,,,,"Biochemistry & Microbiology, University of Victoria, Canada",,,,Africa,,,,,Sierra Leone,1970
+ON843166,,hMPXV-1,Portugal,,2022-05-24,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0038/2022,2022
+ON843168,,hMPXV-1,Portugal,,2022-05-26,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0032/2022,2022
+ON843170,,hMPXV-1,Portugal,,2022-05-26,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0031/2022,2022
+ON843169,,hMPXV-1,Portugal,,2022-05-26,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0034/2022,2022
 DQ011153,,MPXV Clade 2,,,,2005-09-27,,,,,,Cynomys,"National Center for Infectious Diseases, Centers for Disease Control and Prevention (US CDC), USA",,,,North America,,,,,DQ011153,2003
-HQ857562,,MPXV Clade 1,Democratic Republic of the Congo,,,2011-02-15,,,,,,Homo sapiens,"Vaccine and Gene Therapy Institute, Oregon Health and Science University, USA",,,,Africa,,,,,HQ857562,
-HM172544,,MPXV Clade 1,Democratic Republic of the Congo,,,2010-07-25,,,,,,Homo sapiens,"Virology, The United States Army Medical Research Institute for Infectious Diseases (USAMRIID), USA",,,,Africa,,,,,HM172544,
 DQ011157,,MPXV Clade 2,,,,2005-09-27,,,,,,Homo sapiens,"National Center for Infectious Diseases, Centers for Disease Control and Prevention (US CDC), USA",,,,North America,,,,,DQ011157,2003
 MT903339,,hMPXV-1,Nigeria,,,2020-09-15,,Delta,,,,Homo sapiens,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A,,,Africa,,,,,MPXV-M3021_Delta,2018
 MT903345,,hMPXV-1,United Kingdom,,,2020-09-15,,Great Britain,,,,Homo sapiens,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A.1,,9,Europe,,,,,MPXV-UK_P3,2018
-MT903347,,MPXV Clade 2,USA,,,2020-09-15,,,,,,Gliridae,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",,,,North America,,,,,MPXV-USA2003_099_Dormouse,2003
-KJ642616,,MPXV Clade 2,France,,,2015-05-11,,Ile de France,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,Paris FR,,Europe,,,,,KJ642616,1968
+FV537350,,MPXV Clade 1,,,,2010-03-18,,,,,,,"Genetics Signatures, Sydney, Australia",,,,,,,,,FV537350,
+NC_063383,,hMPXV-1,Nigeria,,,2022-05-30,,Rivers,,,,Homo sapiens,,A,,8,Africa,,,,,MPXV-M5312_HM12_Rivers,2018
+NC_003310,,MPXV Clade 1,Democratic Republic of the Congo,,,2001-12-12,,,,,,,"Department of Molecular Biology of Genomes, SRC VB Vector, Russia",,,,Africa,,,,,NC_003310,
+KJ642615,,MPXV Clade 3,Nigeria,,,2015-05-11,,,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,,,Africa,,,,,KJ642615,1978
 KC257460,,MPXV Clade 1,Democratic Republic of the Congo,,,2013-02-20,,Yandongi,,,,Homo sapiens,"Biochemistry & Microbiology, University of Victoria, Canada",,,,Africa,,,,,KC257460,1985
-JX878417,,MPXV Clade 1,Democratic Republic of the Congo,,2006-12-14,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,12,Africa,,,,,DRC 07-0104,2006
-JX878424,,MPXV Clade 1,Democratic Republic of the Congo,,2007-03-25,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,3,Africa,,,,,DRC 07-0338,2007
-JX878426,,MPXV Clade 1,Democratic Republic of the Congo,,2007-05-27,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,5,Africa,,,,,DRC 07-0450,2007
-JX878429,,MPXV Clade 1,Democratic Republic of the Congo,,2007-09-04,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,9,Africa,,,,,DRC 07-0662,2007
-MG693725,,hMPXV-1,Nigeria,,,2018-02-06,,,,,,Homo sapiens,,A,,,Africa,,,,,MPX_Nig_2017_298481,2017
-MN346703,,MPXV Clade 2,Côte d'Ivoire,,2018-05-20,2020-03-17,,,,,,Pan troglodytes verus,,,,5,Africa,,,,,MPXV_TNP_2018_East_Placali,2018
-ON676704,,hMPXV-1,USA,,,2022-06-03,,Florida,,,,Homo sapiens,"Division of High-Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",B.1,,5,North America,,,,,MPXV_USA_2022_FL002,2022
-ON959131,,hMPXV-1,USA,,,2022-07-11,,Illinois,,,,Homo sapiens,,B.1,,5,North America,,,,,MPXV_USA_2022_IL001,2022
-ON585037,,hMPXV-1,Portugal,,2022-05-15,2022-05-24,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0005/2022,2022
-ON808414,,hMPXV-1,United Kingdom,,2022-05-15,2022-06-21,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,CVR_MPXV1b,2022
-ON808416,,hMPXV-1,United Kingdom,,2022-05-15,2022-06-21,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,CVR_MPXV1d,2022
-ON649712,,hMPXV-1,Portugal,,2022-05-19,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0025/2022,2022
-ON803423,,hMPXV-1,Canada,,2022-05-19,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2851/2022,2022
-ON803430,,hMPXV-1,Canada,,2022-05-19,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2874/2022,2022
-ON649723,,hMPXV-1,Portugal,,2022-05-20,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0013/2022,2022
-ON880522,,hMPXV-1,Canada,,2022-05-21,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2870/2022,2022
-ON745225,,hMPXV-1,Spain,,2022-05-27,2022-06-13,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MpxV/Spain/MD-HGUGM-66649483/2022,2022
-ON754984,,hMPXV-1,Slovenia,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV_SI2022_S3,2022
-ON813251,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI051,2022
-ON813253,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI053,2022
-ON853658,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI072,2022
-ON853671,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI091,2022
-ON853676,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI098,2022
-ON983164,,hMPXV-1,Canada,,2022-06-09,2022-07-14,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3558/2022,2022
-ON983165,,hMPXV-1,Canada,,2022-06-14,2022-07-14,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3686/2022,2022
-ON929058,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI071,2022
-ON929063,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI105,2022
-ON929070,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI112,2022
-ON929071,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI113,2022
-ON929073,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI115,2022
-ON929077,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI122,2022
-ON929079,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI124,2022
-ON929080,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI125,2022
-ON929083,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI128,2022
-ON929085,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI130,2022
-ON959152,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI139,2022
-ON959155,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI138,2022
-ON959156,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI141,2022
-ON959159,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI144,2022
-ON959161,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI147,2022
-ON959170,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI156,2022
-ON959171,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI157,2022
-ON959176,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI163,2022
-AY753185,,MPXV Clade 2,,,,2005-09-07,,,,,,,"Biochemistry & Microbiology, University of Victoria, Canada",,,,Africa,,,,,AY753185,1958
-DQ011156,,MPXV Clade 2,Liberia,,,2005-09-27,,,,,,Homo sapiens,"National Center for Infectious Diseases, Centers for Disease Control and Prevention (US CDC), USA",,,,Africa,,,,,DQ011156,1970
-MT903337,,hMPXV-1,Nigeria,,,2020-09-15,,Federal Capital Territory,,,,Homo sapiens,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A,,,Africa,,,,,MPXV-M2940_FCT,2018
-MT903340,,hMPXV-1,Nigeria,,,2020-09-15,,Rivers,,,,Homo sapiens,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A,,,Africa,,,,,MPXV-M5312_HM12_Rivers,2018
-MT903344,,hMPXV-1,United Kingdom,,,2020-09-15,,Great Britain,,,,Homo sapiens,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A.1,,9,Europe,,,,,MPXV-UK_P2,2018
-KJ642613,,MPXV Clade 1,Democratic Republic of the Congo,,,2015-05-11,,,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,,,Africa,,,,,KJ642613,1970
-KP849471,,MPXV Clade 1,Democratic Republic of the Congo,,,2015-05-13,,,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,,,Africa,,,,,Yambuku_DRC_1985,1985
-KJ642618,,MPXV Clade 1,Cameroon,,,2015-05-11,,,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,,,Africa,,,,,KJ642618,1990
-JX878409,,MPXV Clade 1,Democratic Republic of the Congo,,2006-11-09,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,11,Africa,,,,,DRC 06-0999,2006
-JX878414,,MPXV Clade 1,Democratic Republic of the Congo,,2006-12-14,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,12,Africa,,,,,DRC 07-0046,2006
+JX878412,,MPXV Clade 1,Democratic Republic of the Congo,,2006-11-30,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,11,Africa,,,,,DRC 06-1076,2006
 JX878418,,MPXV Clade 1,Democratic Republic of the Congo,,2007-01-02,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,1,Africa,,,,,DRC 07-0120,2007
 JX878419,,MPXV Clade 1,Democratic Republic of the Congo,,2007-02-10,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,2,Africa,,,,,DRC 07-0275,2007
-JX878416,,MPXV Clade 1,Democratic Republic of the Congo,,2006-12-26,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,12,Africa,,,,,DRC 07-0093,2006
-JX878423,,MPXV Clade 1,Democratic Republic of the Congo,,2007-03-25,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,3,Africa,,,,,DRC 07-0337,2007
-JX878428,,MPXV Clade 1,Democratic Republic of the Congo,,2007-06-30,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,6,Africa,,,,,DRC 07-0514,2007
-MT724770,,MPXV Clade 1,Democratic Republic of the Congo,,2014-01-01,2021-03-28,,,,,,Crocidura littoralis,"Biology, Universiteit Antwerpen, Belgium",,,1,Africa,,,,,MT724770,2014
-MN346699,,MPXV Clade 2,Côte d'Ivoire,,2017-01-23,2020-03-17,,,,,,Pan troglodytes verus,"Project Group Epidemiology of Highly Pathogenic Microorganisms, Robert Koch Institute, Germany",,,1,Africa,,,,,MPXV_TNP_2017_South_Ravel_1,2017
-MN346690,,MPXV Clade 2,Côte d'Ivoire,,2017-03-13,2020-03-17,,,,,,Pan troglodytes verus,"Project Group Epidemiology of Highly Pathogenic Microorganisms, Robert Koch Institute, Germany",,,3,Africa,,,,,MPXV_TNP_2017_North_Bic,2017
-MK783028,,hMPXV-1,Nigeria,,2017-11-09,2019-07-24,,Rivers,,,,Homo sapiens,"NCEZID/DHCPP/PRB, Centers for Disease Control & Prevention (US CDC), USA",A,,11,Africa,,,,,MK783028,2017
-MN702446,,MPXV Clade 1,Central African Republic,,2018-04-14,2020-08-29,,,,,,Homo sapiens,"Virology, Centre International de Recherches Medicales de Franceville, CIRMF, Gabon",,,4,Africa,,,,,MN702446,2018
-OL504741,,hMPXV-1,United Kingdom,,,2022-07-06,,,,,,,,A.1,,12,Europe,,,,,2091,2019
-ON880534,,hMPXV-1,Canada,,2022-05-30,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3262/2022,2022
-ON676707,,hMPXV-1,USA,,,2022-06-03,,Texas,,,,Homo sapiens,"Division of High-Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A.2,,7,North America,,,,,MPXV_USA_2021_TX,2021
-ON619835,,hMPXV-1,United Kingdom,,,2022-05-27,,,,,,Homo sapiens,"Research & Evaluation, UKHSA, UK",B.1,,5,Europe,,,,,MPXV_UK_2022_1,2022
-ON803418,,hMPXV-1,Canada,,2022-05-18,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2837/2022,2022
-ON568298,,hMPXV-1,Germany,,2022-05-19,2022-05-23,,,,,,Homo sapiens,"Microbiol Genomics & Bioinformatics, Bundeswehr Institute of Microbiology, Germany",B.1,,5,Europe,,,,,MPXV-BY-IMB25241,2022
-ON637938,,hMPXV-1,Germany,,,2022-05-31,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI01,2022
-ON676705,,hMPXV-1,USA,,,2022-06-03,,Utah,,,,Homo sapiens,"Division of High-Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",B.1,,5,North America,,,,,MPXV_USA_2022_UT001,2022
-ON682265,,hMPXV-1,Germany,,,2022-06-06,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI04,2022
-ON694330,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI019,2022
-ON595760,,hMPXV-1,Switzerland,,2022-05-19,2022-05-24,,,,,,Homo sapiens,"Laboratory of Viorology, University Hospital of Geneva, Switzerland",B.1,,5,Europe,,,,,MPXV-CH-38134631/2022,2022
-ON682270,,hMPXV-1,Germany,,,2022-06-06,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI06,2022
-ON694332,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI023,2022
-ON694338,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI017,2022
-ON694341,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI012,2022
-ON880519,,hMPXV-1,Canada,,2022-05-13,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2833/2022,2022
-ON585029,,hMPXV-1,Portugal,,2022-05-04,2022-05-24,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0001/2022,2022
-ON585035,,hMPXV-1,Portugal,,2022-05-15,2022-05-24,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0009/2022,2022
-ON585038,,hMPXV-1,Portugal,,2022-05-15,2022-05-24,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0008/2022,2022
-ON808415,,hMPXV-1,United Kingdom,,2022-05-15,2022-06-21,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,CVR_MPXV1c,2022
-ON808413,,hMPXV-1,United Kingdom,,2022-05-15,2022-06-21,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,CVR_MPXV1a,2022
-ON803442,,hMPXV-1,Canada,,2022-05-16,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2967/2022,2022
-ON803427,,hMPXV-1,Canada,,2022-05-18,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2861/2022,2022
-ON649708,,hMPXV-1,Portugal,,2022-05-19,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0023/2022,2022
-ON720849,,hMPXV-1,Spain,,2022-05-27,2022-06-09,,,,,,Homo sapiens,"Microbial Genomics, Hospital General Universitario Gregorio Marañón, Madrid, Spain",B.1,,5,Europe,,,,,MpxV/Spain/MD-HGUGM-6532064/2022,2022
-ON843172,,hMPXV-1,Portugal,,2022-05-27,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0035/2022,2022
-ON649721,,hMPXV-1,Portugal,,2022-05-19,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0021/2022,2022
-ON843173,,hMPXV-1,Portugal,,2022-05-27,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0029/2022,2022
-ON649713,,hMPXV-1,Portugal,,2022-05-19,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0020/2022,2022
-ON755039,,hMPXV-1,France,,2022-05-19,2022-06-14,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPXV_IRBA22-11,2022
-ON622718,,hMPXV-1,Spain,,2022-05-20,2022-05-27,,,,,,Homo sapiens,"Microbiology, Hospital Universitari Germans Trias i Pujol, Spain",B.1,,5,Europe,,,,,MPXV/ES0001/HUGTiP/2022,2022
-ON745215,,hMPXV-1,Italy,,2022-05-19,2022-06-13,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,INMI-Pt2,2022
-ON803420,,hMPXV-1,Canada,,2022-05-19,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2846/2022,2022
-ON649718,,hMPXV-1,Portugal,,2022-05-20,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0018/2022,2022
-ON780016,,hMPXV-1,Italy,,2022-05-19,2022-06-16,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,INMI-Pt3,2022
-ON880521,,hMPXV-1,Canada,,2022-05-19,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2858/2022,2022
-ON803431,,hMPXV-1,Canada,,2022-05-20,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2883/2022,2022
-ON803415,,hMPXV-1,Canada,,2022-05-20,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2936/2022,2022
-ON649879,,hMPXV-1,Israel,,2022-05-20,2022-06-01,,,,,,Homo sapiens,"Biochemistry & Molecular Genetics, Israel Institute for Biological Research, Israel",B.1,,5,Asia,,,,,MPXV_ISR001_2022,2022
-ON803437,,hMPXV-1,Canada,,2022-05-20,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2896/2022,2022
-ON803432,,hMPXV-1,Canada,,2022-05-20,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2884/2022,2022
-ON649717,,hMPXV-1,Portugal,,2022-05-21,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0019/2022,2022
-ON880542,,hMPXV-1,Canada,,2022-05-31,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3348/2022,2022
-ON803439,,hMPXV-1,Canada,,2022-05-20,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2899/2022,2022
-ON803413,,hMPXV-1,Canada,,2022-05-21,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2928/2022,2022
-ON755248,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI042,2022
-ON780017,,hMPXV-1,Italy,,2022-05-21,2022-06-16,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,INMI-Pt4,2022
-ON622722,,hMPXV-1,France,,2022-05-22,2022-05-27,,,,,,Homo sapiens,"Virology, GENomique EPIdemiologique das maladies Infectieuses, France",B.1,,5,Europe,,,,,MPXV_FR_HCL0001_2022,2022
-ON803414,,hMPXV-1,Canada,,2022-05-21,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2930/2022,2022
-ON755251,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI045,2022
-ON609725,,hMPXV-1,Slovenia,,2022-05-23,2022-05-26,,,,,,Homo sapiens,"Laboratory for Diagnostics of Zoonoses & WHO Centre, Institute of Microbiology & Immunology, Faculty of Medicine, University of Ljubljana, Slovenia",B.1,,5,Europe,,,,,SLO,2022
-ON649719,,hMPXV-1,Portugal,,2022-05-23,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0012/2022,2022
-ON803441,,hMPXV-1,Canada,,2022-05-23,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2955/2022,2022
-ON631241,,hMPXV-1,Slovenia,,2022-05-24,2022-05-30,,,,,,Homo sapiens,"Laboratory for Diagnostics of Zoonoses & WHO Centre, Institute of Microbiology & Immunology, Faculty of Medicine, University of Ljubljana, Slovenia",B.1,,5,Europe,,,,,2022/2 SLO,2022
-ON803444,,hMPXV-1,Canada,,2022-05-24,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2969/2022,2022
-ON720848,,hMPXV-1,Spain,,2022-05-27,2022-06-09,,,,,,Homo sapiens,"Microbial Genomics, Hospital General Universitario Gregorio Marañón, Madrid, Spain",B.1,,5,Europe,,,,,MpxV/Spain/MD-HGUGM-6513479/2022,2022
-ON880420,,hMPXV-1,Belgium,,2022-05-27,2022-06-30,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPX/UZ_REGA_4/Belgium/2022,2022
-ON880526,,hMPXV-1,Canada,,2022-05-27,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3100/2022,2022
-ON950045,,hMPXV-1,Belgium,,2022-05-27,2022-07-08,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPXV/ITM_pt_31/Belgium/27-May-2022,2022
-ON880508,,hMPXV-1,Canada,,2022-05-30,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3127/2022,2022
-ON736420,,hMPXV-1,Canada,,2022-05-31,2022-06-10,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MPX/2022/Canada/AB1,2022
-ON782054,,hMPXV-1,Spain,,2022-05-31,2022-06-16,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPXV/Spain/HUNSC_ITER_0001a/2022,2022
-ON754986,,hMPXV-1,Slovenia,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV_SI2022_S5,2022
-ON755237,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI031,2022
-ON755238,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI032,2022
-ON755241,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI035,2022
-ON755240,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI034,2022
-ON755243,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI037,2022
-ON755244,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI038,2022
-ON755246,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI040,2022
-ON755247,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI041,2022
-ON755249,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI043,2022
-ON755250,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI044,2022
-ON755252,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI046,2022
-ON755253,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI047,2022
-ON813254,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI057,2022
-ON813255,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI058,2022
-ON813257,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI060,2022
-ON813258,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI054,2022
-ON813259,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI055,2022
-ON813261,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI061,2022
-ON813265,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI065,2022
-ON755254,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI048,2022
-ON853651,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI073,2022
-ON755256,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI050,2022
-ON853654,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI087,2022
-ON813256,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI059,2022
-ON853659,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI075,2022
-ON813260,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI056,2022
-ON853665,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI083,2022
-ON853667,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI085,2022
-ON853668,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI086,2022
-ON853674,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI095,2022
-ON853675,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI096,2022
-ON853678,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI100,2022
-ON853680,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI097,2022
-ON853681,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI092,2022
-ON918656,,hMPXV-1,Taiwan,,,2022-07-05,,,,,,Homo sapiens,,B.1,,6,Asia,,,,,MPXV/human/Taiwan/110-231642/2022,2022
-ON959132,,hMPXV-1,USA,,,2022-07-11,,Illinois,,,,Homo sapiens,,B.1,,6,North America,,,,,MPXV_USA_2022_IL003,2022
-ON792320,,hMPXV-1,Switzerland,,2022-06-01,2022-06-17,,Zürich,,,,Homo sapiens,,B.1,,6,Europe,,,,,hMpxV/Switzerland/ZH-UZH-IMV-3ba6449f/2022,2022
-ON813263,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI063,2022
-ON843178,,hMPXV-1,Portugal,,2022-06-02,2022-06-24,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,Monkeypox/PT0040/2022,2022
-ON813267,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI067,2022
+ON880516,,hMPXV-1,Canada,,2022-06-02,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3472/2022,2022
+ON880545,,hMPXV-1,Canada,,2022-06-02,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3366/2022,2022
+ON880546,,hMPXV-1,Canada,,2022-06-02,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3368/2022,2022
+JX878424,,MPXV Clade 1,Democratic Republic of the Congo,,2007-03-25,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,3,Africa,,,,,DRC 07-0338,2007
+JX878426,,MPXV Clade 1,Democratic Republic of the Congo,,2007-05-27,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,5,Africa,,,,,DRC 07-0450,2007
+ON880547,,hMPXV-1,Canada,,2022-06-03,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3441/2022,2022
+ON983160,,hMPXV-1,Canada,,2022-06-03,2022-07-14,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3393/2022,2022
 ON983162,,hMPXV-1,Canada,,2022-06-03,2022-07-14,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3531/2022,2022
-ON880413,,hMPXV-1,Brazil,,2022-06-14,2022-06-30,,,,,,Homo sapiens,,B.1,,6,South America,,,,,MPX/BR0002/2022,2022
+MK783033,,hMPXV-1,Nigeria,,2017-10-09,2019-07-24,,Rivers,,,,Homo sapiens,,A,,10,Africa,,,,,MK783033,2017
+MN346703,,MPXV Clade 2,Côte d'Ivoire,,2018-05-20,2020-03-17,,,,,,Pan troglodytes verus,,,,5,Africa,,,,,MPXV_TNP_2018_East_Placali,2018
+MT250197,,hMPXV-1,Singapore,,,2020-05-12,,,,,,Homo sapiens,,A.1,,,Asia,,,,,MT250197,2019
+ON637939,,hMPXV-1,Germany,,,2022-05-31,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI02,2022
+ON694329,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI025,2022
+ON880513,,hMPXV-1,Canada,,2022-06-04,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3407/2022,2022
+ON983163,,hMPXV-1,Canada,,2022-06-07,2022-07-14,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3532/2022,2022
 ON959143,,hMPXV-1,Finland,,2022-06-16,2022-07-11,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPX-96/Finland/2022,2022
+ON694331,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI015,2022
+ON983167,,hMPXV-1,Canada,,2022-06-16,2022-07-14,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3725/2022,2022
+ON694333,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI022,2022
+ON959135,,hMPXV-1,USA,,,2022-07-11,,New York,,,,Homo sapiens,,B.1,,5,North America,,,,,MPXV_USA_2022_NY004,2022
+ON585035,,hMPXV-1,Portugal,,2022-05-15,2022-05-24,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0009/2022,2022
+ON585037,,hMPXV-1,Portugal,,2022-05-15,2022-05-24,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0005/2022,2022
+ON927243,,hMPXV-1,Spain,,2022-06-21,2022-07-06,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MpxV/Spain/MD-HGUGM-6642566/2022,2022
+ON911481,,hMPXV-1,Mexico,,2022-06-28,2022-07-04,,Nuevo Leon,,,,Homo sapiens,,B.1,,6,North America,,,,,Monkeypox/MX-UANL001/2022,2022
+ON929058,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI071,2022
 ON929059,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI072,2022
+ON614676,,hMPXV-1,Italy,,2022-05-18,2022-05-26,,,,,,Homo sapiens,"Laboratory of Virology, INMI Lazzaro Spallanzani IRCCS, Italy",B.1,,5,Europe,,,,,INMI-Pt1,2022
+ON803417,,hMPXV-1,Canada,,2022-05-17,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2836/2022,2022
+ON803418,,hMPXV-1,Canada,,2022-05-18,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2837/2022,2022
+ON649708,,hMPXV-1,Portugal,,2022-05-19,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0023/2022,2022
+ON649712,,hMPXV-1,Portugal,,2022-05-19,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0025/2022,2022
+ON649722,,hMPXV-1,Portugal,,2022-05-19,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0022/2022,2022
+ON745215,,hMPXV-1,Italy,,2022-05-19,2022-06-13,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,INMI-Pt2,2022
+ON755039,,hMPXV-1,France,,2022-05-19,2022-06-14,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPXV_IRBA22-11,2022
+ON780016,,hMPXV-1,Italy,,2022-05-19,2022-06-16,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,INMI-Pt3,2022
+ON803420,,hMPXV-1,Canada,,2022-05-19,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2846/2022,2022
+ON803423,,hMPXV-1,Canada,,2022-05-19,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2851/2022,2022
+ON622718,,hMPXV-1,Spain,,2022-05-20,2022-05-27,,,,,,Homo sapiens,"Microbiology, Hospital Universitari Germans Trias i Pujol, Spain",B.1,,5,Europe,,,,,MPXV/ES0001/HUGTiP/2022,2022
 ON929060,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI102,2022
-ON929069,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI111,2022
-ON929072,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI114,2022
-ON929075,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI120,2022
+ON929064,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI106,2022
+ON929067,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI109,2022
 ON929076,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI121,2022
-ON929084,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI129,2022
-ON929086,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI131,2022
-ON959151,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI160,2022
+ON929081,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI126,2022
+ON929085,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI130,2022
+ON929087,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI132,2022
+ON929091,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI136,2022
+ON959154,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI137,2022
+ON959156,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI141,2022
+ON959159,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI144,2022
+ON959163,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI149,2022
+ON959166,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI152,2022
+ON959170,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI156,2022
+ON959175,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI162,2022
+ON843167,,hMPXV-1,Portugal,,2022-05-26,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0036/2022,2022
+ON959176,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI163,2022
+ON959177,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI164,2022
+ON880517,,hMPXV-1,Canada,,2022-05-27,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3476/2022,2022
+ON880526,,hMPXV-1,Canada,,2022-05-27,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3100/2022,2022
+ON880537,,hMPXV-1,Canada,,2022-05-31,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3273/2022,2022
+ON754984,,hMPXV-1,Slovenia,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV_SI2022_S3,2022
+ON755232,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI026,2022
+ON755236,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI030,2022
+ON755241,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI035,2022
+ON813260,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI056,2022
+ON813265,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI065,2022
+ON853667,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI085,2022
+ON853671,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI091,2022
+AY741551,,MPXV Clade 2,Sierra Leone,,,2005-09-07,,,,,,,"Biochemistry & Microbiology, University of Victoria, Canada",,,,Africa,,,,,Sierra Leone,1970
+AY753185,,MPXV Clade 2,,,,2005-09-07,,,,,,,"Biochemistry & Microbiology, University of Victoria, Canada",,,,Africa,,,,,AY753185,1958
 DQ011154,,MPXV Clade 1,Democratic Republic of the Congo,,,2005-09-27,,,,,,Homo sapiens,"National Center for Infectious Diseases, Centers for Disease Control and Prevention (US CDC), USA",,,,Africa,,,,,DQ011154,
-MT903343,,hMPXV-1,United Kingdom,,,2020-09-15,,Great Britain,,,,Homo sapiens,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A.1,,9,Europe,,,,,MPXV-UK_P1,2018
-MN702444,,MPXV Clade 1,Central African Republic,,2017-02-06,2020-08-29,,,,,,Homo sapiens,"Virology, Centre International de Recherches Medicales de Franceville, CIRMF, Gabon",,,2,Africa,,,,,MN702444,2017
-KJ642617,,MPXV Clade 3,Nigeria,,,2015-05-11,,,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,,,Africa,,,,,KJ642617,1971
+DQ011155,,MPXV Clade 1,,,,2005-09-27,,,,,,Homo sapiens,,,,,,,,,,DQ011155,
+DQ011156,,MPXV Clade 2,Liberia,,,2005-09-27,,,,,,Homo sapiens,"National Center for Infectious Diseases, Centers for Disease Control and Prevention (US CDC), USA",,,,Africa,,,,,DQ011156,1970
+HM172544,,MPXV Clade 1,Democratic Republic of the Congo,,,2010-07-25,,,,,,Homo sapiens,"Virology, The United States Army Medical Research Institute for Infectious Diseases (USAMRIID), USA",,,,Africa,,,,,HM172544,
+MT903337,,hMPXV-1,Nigeria,,,2020-09-15,,Federal Capital Territory,,,,Homo sapiens,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A,,,Africa,,,,,MPXV-M2940_FCT,2018
+MT903338,,hMPXV-1,Nigeria,,,2020-09-15,,Lagos,,,,Homo sapiens,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A,,,Africa,,,,,MPXV-M2957_Lagos,
+MT903340,,hMPXV-1,Nigeria,,,2020-09-15,,Rivers,,,,Homo sapiens,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A,,,Africa,,,,,MPXV-M5312_HM12_Rivers,2018
+ON880515,,hMPXV-1,Canada,,2022-06-02,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3467/2022,2022
+ON983161,,hMPXV-1,Canada,,2022-06-03,2022-07-14,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3530/2022,2022
+ON720849,,hMPXV-1,Spain,,2022-05-27,2022-06-09,,,,,,Homo sapiens,"Microbial Genomics, Hospital General Universitario Gregorio Marañón, Madrid, Spain",B.1,,5,Europe,,,,,MpxV/Spain/MD-HGUGM-6532064/2022,2022
+ON838939,,hMPXV-1,Spain,,2022-06-06,2022-06-24,,Madrid,,,,Homo sapiens,,B.1,,6,Europe,,,,"SRR19793481, SRR19793480",8887,2022
+ON751962,,hMPXV-1,Brazil,,2022-06-07,2022-06-13,,,,,,Homo sapiens,,B.1,,6,South America,,,,,Monkeypox/BR0001/2022,2022
+ON880413,,hMPXV-1,Brazil,,2022-06-14,2022-06-30,,,,,,Homo sapiens,,B.1,,6,South America,,,,,MPX/BR0002/2022,2022
+ON983165,,hMPXV-1,Canada,,2022-06-14,2022-07-14,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3686/2022,2022
+ON929057,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI070,2022
+ON929062,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI104,2022
+ON929063,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI105,2022
+ON929073,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI115,2022
+ON929077,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI122,2022
+ON929078,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI123,2022
+ON880530,,hMPXV-1,Canada,,2022-05-29,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3162/2022,2022
+ON736420,,hMPXV-1,Canada,,2022-05-31,2022-06-10,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MPX/2022/Canada/AB1,2022
+ON929089,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI134,2022
+ON929090,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI135,2022
+ON959153,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI165,2022
+ON959162,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI148,2022
+HQ857562,,MPXV Clade 1,Democratic Republic of the Congo,,,2011-02-15,,,,,,Homo sapiens,"Vaccine and Gene Therapy Institute, Oregon Health and Science University, USA",,,,Africa,,,,,HQ857562,
+MT903344,,hMPXV-1,United Kingdom,,,2020-09-15,,Great Britain,,,,Homo sapiens,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A.1,,9,Europe,,,,,MPXV-UK_P2,2018
+MT903346,,MPXV Clade 2,USA,,,2020-09-15,,,,,,Cricetomys gambianus,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",,,,North America,,,,,MPXV-USA2003_099_Gambian_Rat,2003
+KJ642613,,MPXV Clade 1,Democratic Republic of the Congo,,,2015-05-11,,,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,,,Africa,,,,,KJ642613,1970
+KP849470,,MPXV Clade 2,Côte d'Ivoire,,,2015-05-13,,,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,,,Africa,,,,,Cote d'Ivoire_1971,1971
+KP849471,,MPXV Clade 1,Democratic Republic of the Congo,,,2015-05-13,,,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,,,Africa,,,,,Yambuku_DRC_1985,1985
 KJ642612,,MPXV Clade 1,Democratic Republic of the Congo,,,2015-05-11,,,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,,,Africa,,,,,KJ642612,1986
 KJ642619,,MPXV Clade 1,Gabon,,,2015-05-11,,,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,,,Africa,,,,,KJ642619,1988
-MN702453,,MPXV Clade 1,Central African Republic,,2001-08-11,2020-08-29,,,,,,Homo sapiens,"Virology, Centre International de Recherches Medicales de Franceville, CIRMF, Gabon",,,8,Africa,,,,,MN702453,2001
+KJ642618,,MPXV Clade 1,Cameroon,,,2015-05-11,,,,,,,"Poxvirus Program, Centres for Disease Control and prevention (US CDC), USA",,,,Africa,,,,,KJ642618,1990
 JX878407,,MPXV Clade 1,Democratic Republic of the Congo,,2006-10-09,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,10,Africa,,,,,DRC 06-0950,2006
-JX878410,,MPXV Clade 1,Democratic Republic of the Congo,,2006-11-24,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,11,Africa,,,,,DRC 06-1070,2006
-JX878411,,MPXV Clade 1,Democratic Republic of the Congo,,2006-11-30,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,11,Africa,,,,,DRC 06-1075,2006
 JX878413,,MPXV Clade 1,Democratic Republic of the Congo,,2006-12-14,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,12,Africa,,,,,DRC 07-0045,2006
-JX878422,,MPXV Clade 1,Democratic Republic of the Congo,,2007-03-20,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,3,Africa,,,,,DRC 07-0287,2007
-JX878425,,MPXV Clade 1,Democratic Republic of the Congo,,2007-04-20,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,4,Africa,,,,,DRC 07-0354,2007
-JX878427,,MPXV Clade 1,Democratic Republic of the Congo,,2007-05-25,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,5,Africa,,,,,DRC 07-0480,2007
-ON853649,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI068,2022
-MT724769,,MPXV Clade 2,Democratic Republic of the Congo,,2012-01-01,2021-03-28,,,,,,Malacomys longipes,"Biology, Universiteit Antwerpen, Belgium",,,1,Africa,,,,,MT724769,2012
-MN702450,,MPXV Clade 1,Central African Republic,,2016-01-01,2020-08-29,,,,,,Homo sapiens,"Virology, Centre International de Recherches Medicales de Franceville, CIRMF, Gabon",,,1,Africa,,,,,MN702450,2016
-MG693723,,hMPXV-1,Nigeria,,,2018-02-06,,,,,,Homo sapiens,,A,,,Africa,,,,,MPXV_Nig_2017_297957,2018
-MG693724,,hMPXV-1,Nigeria,,,2018-02-06,,,,,,Homo sapiens,,A,,,Africa,,,,,MPXV_Nig_2017_298464,2017
-MN346701,,MPXV Clade 2,Côte d'Ivoire,,2017-01-14,2020-03-17,,,,,,Pan troglodytes verus,,,,1,Africa,,,,,MPXV_TNP_2017_South_Woodstock,2017
-MN702445,,MPXV Clade 1,Central African Republic,,2017-02-06,2020-08-29,,,,,,Homo sapiens,"Virology, Centre International de Recherches Medicales de Franceville, CIRMF, Gabon",,,2,Africa,,,,,MN702445,2017
-MN346694,,MPXV Clade 2,Côte d'Ivoire,,2017-03-28,2020-03-17,,,,,,Pan troglodytes verus,"Project Group Epidemiology of Highly Pathogenic Microorganisms, Robert Koch Institute, Germany",,,3,Africa,,,,,MPXV_TNP_2017_North_Saro,2017
-MN346696,,MPXV Clade 2,Côte d'Ivoire,,2017-04-03,2020-03-17,,,,,,Pan troglodytes verus,"Project Group Epidemiology of Highly Pathogenic Microorganisms, Robert Koch Institute, Germany",,,4,Africa,,,,,MPXV_TNP_2017_North_Surprise_1,2017
-MK783033,,hMPXV-1,Nigeria,,2017-10-09,2019-07-24,,Rivers,,,,Homo sapiens,,A,,10,Africa,,,,,MK783033,2017
-MK783027,,hMPXV-1,Nigeria,,2017-11-09,2019-07-24,,Rivers,,,,Homo sapiens,,A,,11,Africa,,,,,MK783027,2017
-MK783030,,hMPXV-1,Nigeria,,2017-11-30,2019-07-24,,Rivers,,,,Homo sapiens,"NCEZID/DHCPP/PRB, Centers for Disease Control & Prevention (US CDC), USA",A,,11,Africa,,,,,MK783030,2017
-MN702448,,MPXV Clade 1,Central African Republic,,2018-03-07,2020-08-29,,,,,,Homo sapiens,"Virology, Centre International de Recherches Medicales de Franceville, CIRMF, Gabon",,,3,Africa,,,,,MN702448,2018
-MN702447,,MPXV Clade 1,Central African Republic,,2018-03-20,2020-08-29,,,,,,Homo sapiens,"Virology, Centre International de Recherches Medicales de Franceville, CIRMF, Gabon",,,3,Africa,,,,,MN702447,2018
-MN648051,,hMPXV-1,Israel,,2018-10-04,2019-12-07,,,,,,Homo sapiens,"Biochemistry & Molecular Genetics, Israel Institute for Biological Research, Israel",A.1,,10,Asia,,,,,MN648051,2018
-ON880533,,hMPXV-1,Canada,,2022-05-30,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3257/2022,2022
-ON983168,,hMPXV-1,Czech Republic,,2022-04-28,2022-07-14,,,,,,Homo sapiens,,B.1,,4,Europe,,,,,MPxV/Prague_001/2022/flye_medaka,2022
-ON619837,,hMPXV-1,United Kingdom,,,2022-05-27,,,,,,Homo sapiens,"Research & Evaluation, UKHSA, UK",B.1,,5,Europe,,,,,MPXV_UK_2022_3,2022
-ON637939,,hMPXV-1,Germany,,,2022-05-31,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI02,2022
+JX878416,,MPXV Clade 1,Democratic Republic of the Congo,,2006-12-26,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,12,Africa,,,,,DRC 07-0093,2006
+JX878423,,MPXV Clade 1,Democratic Republic of the Congo,,2007-03-25,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,3,Africa,,,,,DRC 07-0337,2007
+MN346691,,MPXV Clade 2,Côte d'Ivoire,,2017-03-11,2020-03-17,,,,,,,,,,3,Africa,,,,,MPXV_TNP_2017_North_Environmental,2017
+OL504743,,hMPXV-1,United Kingdom,,,2022-07-06,,,,,,,,A.1,,12,Europe,,,,,2102,2019
+ON676707,,hMPXV-1,USA,,,2022-06-03,,Texas,,,,Homo sapiens,"Division of High-Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A.2,,7,North America,,,,,MPXV_USA_2021_TX,2021
+ON619835,,hMPXV-1,United Kingdom,,,2022-05-27,,,,,,Homo sapiens,"Research & Evaluation, UKHSA, UK",B.1,,5,Europe,,,,,MPXV_UK_2022_1,2022
+ON615424,,hMPXV-1,Netherlands,,,2022-05-26,,,,,,Homo sapiens,"Public Health Virology, Erasmus Medical Centre, The Netherlands",B.1,,5,Europe,,,,,MPXV_2022_NL001,2022
+ON631963,,hMPXV-1,Australia,,,2022-05-31,,,,,,Homo sapiens,"Victorian Infectious Diseases Reference Laboratory, Doherty Institute, Australia",B.1,,5,Oceania,,,,,MPxV/VIDRL01/2022,2022
 ON674051,,hMPXV-1,USA,,,2022-06-03,,Florida,,,,Homo sapiens,"Division of High-Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A.2,,5,North America,,,,,MPXV_USA_2022_FL001,2022
 ON675438,,hMPXV-1,USA,,,2022-06-03,,Virginia,,,,Homo sapiens,"Division of High-Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A.2,,5,North America,,,,,MPXV_USA_2022_VA001,2022
-ON959134,,hMPXV-1,USA,,,2022-07-11,,New York,,,,Homo sapiens,,B.1,,5,North America,,,,,MPXV_USA_2022_NY003,2022
-ON959135,,hMPXV-1,USA,,,2022-07-11,,New York,,,,Homo sapiens,,B.1,,5,North America,,,,,MPXV_USA_2022_NY004,2022
-ON645312,,hMPXV-1,United Kingdom,,2022-05-11,2022-06-01,,,,,,Homo sapiens,"Centre for Clinical Infection & Diagnostics Research, Kings College London, St Thomas Hospital, UK",B.1,,5,Europe,,,,,MPXV_GSTT_Patient1,2022
-ON803419,,hMPXV-1,Canada,,2022-05-14,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2844/2022,2022
-ON585033,,hMPXV-1,Portugal,,2022-05-15,2022-05-24,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0006/2022,2022
-ON622712,,hMPXV-1,Belgium,,2022-05-19,2022-05-27,,,,,,Homo sapiens,"Microbiology, Immunology & Transplantation, KU Leuven, Rega Institute, Belgium",B.1,,5,Europe,,,,,MPX/UZ_REGA_1/Belgium/2022,2022
-ON803421,,hMPXV-1,Canada,,2022-05-19,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2849/2022,2022
-ON803422,,hMPXV-1,Canada,,2022-05-19,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2850/2022,2022
-ON803424,,hMPXV-1,Canada,,2022-05-19,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2852/2022,2022
+ON682268,,hMPXV-1,Germany,,,2022-06-06,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI08,2022
+ON682267,,hMPXV-1,Germany,,,2022-06-06,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI010,2022
+ON803429,,hMPXV-1,Canada,,2022-05-19,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2873/2022,2022
 ON803425,,hMPXV-1,Canada,,2022-05-19,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2853/2022,2022
-ON627808,,hMPXV-1,USA,,2022-05-20,2022-05-29,,,,,,Homo sapiens,"Department of Health, Utah Public Health Laboratory, USA",B.1,,5,North America,,,,,MPX/human/USA/UT-UPHL-82200022/2022,2022
-ON803434,,hMPXV-1,Canada,,2022-05-20,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2886/2022,2022
-ON803438,,hMPXV-1,Canada,,2022-05-20,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2897/2022,2022
+ON880536,,hMPXV-1,Canada,,2022-05-31,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3272/2022,2022
+ON649724,,hMPXV-1,Portugal,,2022-05-23,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0014/2022,2022
+ON843174,,hMPXV-1,Portugal,,2022-05-30,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0046/2022,2022
+ON880511,,hMPXV-1,Canada,,2022-05-30,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3214/2022,2022
+ON754986,,hMPXV-1,Slovenia,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV_SI2022_S5,2022
+ON880542,,hMPXV-1,Canada,,2022-05-31,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3348/2022,2022
+ON755235,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI029,2022
+ON813264,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI064,2022
+ON813266,,hMPXV-1,Germany,,,2022-06-22,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI056,2022
+ON838178,,hMPXV-1,Slovenia,,,2022-06-24,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,SI2022_S7,2022
+ON853651,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI073,2022
+ON853652,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI074,2022
+ON853654,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI087,2022
+ON853655,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI088,2022
+ON853658,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI072,2022
+ON853659,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI075,2022
+ON853663,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI081,2022
+ON853665,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI083,2022
+ON853668,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI086,2022
+ON853669,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI089,2022
+ON853672,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI093,2022
+ON853674,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI095,2022
+ON853678,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI100,2022
+ON853679,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI077,2022
+ON880538,,hMPXV-1,Canada,,2022-06-01,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3336/2022,2022
+ON755242,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI036,2022
+ON929084,,hMPXV-1,Germany,,,2022-07-06,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI129,2022
+ON959149,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI140,2022
+ON959151,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI160,2022
+ON959155,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI138,2022
+ON959169,,hMPXV-1,Germany,,,2022-07-11,,,,,,Homo sapiens,,B.1,,7,Europe,,,,,MPXV/Germany/2022/RKI155,2022
+AY603973,,MPXV Clade 2,,,,2004-12-30,,,,,,,"Biochemistry & Microbiology, University of Victoria, Canada",,,,,,,,,AY603973,1961
+MN702449,,MPXV Clade 1,Central African Republic,,2016-01-02,2020-08-29,,,,,,Homo sapiens,"Virology, Centre International de Recherches Medicales de Franceville, CIRMF, Gabon",,,1,Africa,,,,,MN702449,2016
+MN702444,,MPXV Clade 1,Central African Republic,,2017-02-06,2020-08-29,,,,,,Homo sapiens,"Virology, Centre International de Recherches Medicales de Franceville, CIRMF, Gabon",,,2,Africa,,,,,MN702444,2017
+JX878408,,MPXV Clade 1,Democratic Republic of the Congo,,2006-10-31,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,10,Africa,,,,,DRC 06-0970,2006
+JX878409,,MPXV Clade 1,Democratic Republic of the Congo,,2006-11-09,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,11,Africa,,,,,DRC 06-0999,2006
+ON755243,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI037,2022
+JX878410,,MPXV Clade 1,Democratic Republic of the Congo,,2006-11-24,2014-01-14,,,,,,Homo sapiens,"Center for Genome Sciences, United States Army Medical Research Institute of Infectious Diseases (USAMRIID), USA",,,11,Africa,,,,,DRC 06-1070,2006
+MN702445,,MPXV Clade 1,Central African Republic,,2017-02-06,2020-08-29,,,,,,Homo sapiens,"Virology, Centre International de Recherches Medicales de Franceville, CIRMF, Gabon",,,2,Africa,,,,,MN702445,2017
+MN346697,,MPXV Clade 2,Côte d'Ivoire,,2017-04-14,2020-03-17,,,,,,Pan troglodytes verus,,,,4,Africa,,,,,MPXV_TNP_2017_North_Surprise_2,2017
+MN346693,,unassigned,Côte d'Ivoire,,2017-04-08,2020-03-17,,,,,,Pan troglodytes verus,"Project Group Epidemiology of Highly Pathogenic Microorganisms, Robert Koch Institute, Germany",,,4,Africa,,,,,MPXV_TNP_2017_North_Ponan,2017
+MN702451,,MPXV Clade 1,Central African Republic,,2017-04-14,2020-08-29,,,,,,Homo sapiens,"Virology, Centre International de Recherches Medicales de Franceville, CIRMF, Gabon",,,4,Africa,,,,,MN702451,2017
+ON755244,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI038,2022
+MN648051,,hMPXV-1,Israel,,2018-10-04,2019-12-07,,,,,,Homo sapiens,"Biochemistry & Molecular Genetics, Israel Institute for Biological Research, Israel",A.1,,10,Asia,,,,,MN648051,2018
+ON880529,,hMPXV-1,Canada,,2022-05-28,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3153/2022,2022
+ON880533,,hMPXV-1,Canada,,2022-05-30,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3257/2022,2022
+ON676708,,hMPXV-1,USA,,,2022-06-03,,Maryland,,,,Homo sapiens,"Division of High-Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",A.1.1,,11,North America,,,,,MPXV_USA_2021_MD,2021
+ON755245,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI039,2022
+ON983168,,hMPXV-1,Czech Republic,,2022-04-28,2022-07-14,,,,,,Homo sapiens,,B.1,,4,Europe,,,,,MPxV/Prague_001/2022/flye_medaka,2022
+ON563414,,hMPXV-1,USA,,,2022-05-20,,Massachusetts,,,,Homo sapiens,"Division of High-Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",B.1,,5,North America,,,,,MPXV_USA_2022_MA001,2022
+ON619838,,hMPXV-1,United Kingdom,,,2022-05-27,,,,,,Homo sapiens,"Research & Evaluation, UKHSA, UK",B.1,,5,Europe,,,,,MPXV_UK_2022_4,2022
+ON637938,,hMPXV-1,Germany,,,2022-05-31,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI01,2022
+ON676704,,hMPXV-1,USA,,,2022-06-03,,Florida,,,,Homo sapiens,"Division of High-Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",B.1,,5,North America,,,,,MPXV_USA_2022_FL002,2022
+ON682265,,hMPXV-1,Germany,,,2022-06-06,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI04,2022
+ON694335,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI018,2022
+ON694337,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI020,2022
+ON694338,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI017,2022
+ON694339,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI016,2022
+ON694340,,hMPXV-1,Germany,,,2022-06-07,,,,,,Homo sapiens,"Centre for Biological Threats, Highly Pathogenic Viruses, Robert Koch Institute, Germany",B.1,,5,Europe,,,,,MPXV/Germany/2022/RKI014,2022
+ON959134,,hMPXV-1,USA,,,2022-07-11,,New York,,,,Homo sapiens,,B.1,,5,North America,,,,,MPXV_USA_2022_NY003,2022
+ON585031,,hMPXV-1,Portugal,,2022-05-15,2022-05-24,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0003/2022,2022
+ON585030,,hMPXV-1,Portugal,,2022-05-15,2022-05-24,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0002/2022,2022
+ON585033,,hMPXV-1,Portugal,,2022-05-15,2022-05-24,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0006/2022,2022
+ON585034,,hMPXV-1,Portugal,,2022-05-15,2022-05-24,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0007/2022,2022
+ON622712,,hMPXV-1,Belgium,,2022-05-19,2022-05-27,,,,,,Homo sapiens,"Microbiology, Immunology & Transplantation, KU Leuven, Rega Institute, Belgium",B.1,,5,Europe,,,,,MPX/UZ_REGA_1/Belgium/2022,2022
+ON649720,,hMPXV-1,Portugal,,2022-05-19,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0024/2022,2022
+ON649713,,hMPXV-1,Portugal,,2022-05-19,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0020/2022,2022
+ON649721,,hMPXV-1,Portugal,,2022-05-19,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0021/2022,2022
+ON803421,,hMPXV-1,Canada,,2022-05-19,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2849/2022,2022
+ON803424,,hMPXV-1,Canada,,2022-05-19,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2852/2022,2022
 ON622713,,hMPXV-1,Belgium,,2022-05-22,2022-05-27,,,,,,Homo sapiens,"Microbiology, Immunology & Transplantation, KU Leuven, Rega Institute, Belgium",B.1,,5,Europe,,,,,MPX/UZ_REGA_2/Belgium/2022,2022
 ON803440,,hMPXV-1,Canada,,2022-05-22,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2954/2022,2022
-ON853652,,hMPXV-1,Germany,,,2022-06-27,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI074,2022
-ON754987,,hMPXV-1,Slovenia,,2022-05-23,2022-06-14,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPXV_SI2022_S1_VEROE6,2022
-ON843165,,hMPXV-1,Portugal,,2022-05-24,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0033/2022,2022
-ON843166,,hMPXV-1,Portugal,,2022-05-24,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0038/2022,2022
-ON644344,,hMPXV-1,Italy,,2022-05-25,2022-06-01,,Friuli Venezia Giulia,,,,Homo sapiens,"Genomics & Epigenomics, AREA Science Park, Italy",B.1,Gorizia,5,Europe,,,,,MPXV_FVG-ITA_01_2022,2022
-ON843167,,hMPXV-1,Portugal,,2022-05-26,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0036/2022,2022
-ON843169,,hMPXV-1,Portugal,,2022-05-26,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0034/2022,2022
+ON649719,,hMPXV-1,Portugal,,2022-05-23,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0012/2022,2022
+ON649725,,hMPXV-1,Portugal,,2022-05-23,2022-06-01,,,,,,Homo sapiens,"Institute National de Saude Doutor Ricardo Jorge (INSA), Portugal",B.1,,5,Europe,,,,,Monkeypox/PT0011/2022,2022
+ON803441,,hMPXV-1,Canada,,2022-05-23,2022-06-21,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-2955/2022,2022
+ON720848,,hMPXV-1,Spain,,2022-05-27,2022-06-09,,,,,,Homo sapiens,"Microbial Genomics, Hospital General Universitario Gregorio Marañón, Madrid, Spain",B.1,,5,Europe,,,,,MpxV/Spain/MD-HGUGM-6513479/2022,2022
+ON880524,,hMPXV-1,Canada,,2022-05-26,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3080/2022,2022
+ON843172,,hMPXV-1,Portugal,,2022-05-27,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0035/2022,2022
+ON880419,,hMPXV-1,Belgium,,2022-05-27,2022-06-30,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPX/UZ_REGA_3/Belgium/2022,2022
+ON755247,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI041,2022
+ON880420,,hMPXV-1,Belgium,,2022-05-27,2022-06-30,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPX/UZ_REGA_4/Belgium/2022,2022
 ON880421,,hMPXV-1,Belgium,,2022-05-27,2022-06-30,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPX/UZ_REGA_5/Belgium/2022,2022
-ON880422,,hMPXV-1,Belgium,,2022-05-27,2022-06-30,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPX/UZ_REGA_6/Belgium/2022,2022
-ON843174,,hMPXV-1,Portugal,,2022-05-30,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0046/2022,2022
-ON843182,,hMPXV-1,Portugal,,2022-05-30,2022-06-24,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,Monkeypox/PT0044/2022,2022
-ON880537,,hMPXV-1,Canada,,2022-05-31,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3273/2022,2022
+ON880507,,hMPXV-1,Canada,,2022-05-27,2022-06-30,,,,,,Homo sapiens,,B.1,,5,North America,,,,,MpxV/human/CAN/UN-NML-3071/2022,2022
+ON950045,,hMPXV-1,Belgium,,2022-05-27,2022-07-08,,,,,,Homo sapiens,,B.1,,5,Europe,,,,,MPXV/ITM_pt_31/Belgium/27-May-2022,2022
 ON754985,,hMPXV-1,Slovenia,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV_SI2022_S4,2022
 ON755233,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI027,2022
-ON755235,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI029,2022
+ON755234,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI028,2022
+ON755237,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI031,2022
 ON755239,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI033,2022
-ON755242,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI036,2022
-ON755245,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI039,2022
-ON880515,,hMPXV-1,Canada,,2022-06-02,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3467/2022,2022
-ON880546,,hMPXV-1,Canada,,2022-06-02,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3368/2022,2022
-ON880547,,hMPXV-1,Canada,,2022-06-03,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3441/2022,2022
-ON880514,,hMPXV-1,Canada,,2022-06-04,2022-06-30,,,,,,Homo sapiens,,B.1,,6,North America,,,,,MpxV/human/CAN/UN-NML-3412/2022,2022
-ON838939,,hMPXV-1,Spain,,2022-06-06,2022-06-24,,Madrid,,,,Homo sapiens,,B.1,,6,Europe,,,,"SRR19793481, SRR19793480",8887,2022
-DQ011155,,MPXV Clade 1,,,,2005-09-27,,,,,,Homo sapiens,,,,,,,,,,DQ011155,
-FV537349,,MPXV Clade 1,,,,2010-03-18,,,,,,,"Genetics Signatures, Sydney, Australia",,,,,,,,,FV537349,
-MT903348,,MPXV Clade 2,USA,,,2020-09-15,,,,,,Funisciurus,"National Center for Emerging and Zoonotic Infectious Diseases, Division of High Consequence Pathogens & Pathology, Centers for Disease Control & Prevention (US CDC), USA",,,,North America,,,,,MPXV-USA2003_099_Rope_Squirrel,2003
-FV537350,,MPXV Clade 1,,,,2010-03-18,,,,,,,"Genetics Signatures, Sydney, Australia",,,,,,,,,FV537350,
+ON755240,,hMPXV-1,Germany,,,2022-06-14,,,,,,Homo sapiens,,B.1,,6,Europe,,,,,MPXV/Germany/2022/RKI034,2022
