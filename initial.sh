@@ -9,6 +9,8 @@ wget -N https://raw.githubusercontent.com/nextstrain/monkeypox/master/config/exc
 cat exclude* > all_exclude.txt
 # remove anything after a hash in all_exclude.txt
 sed -i 's/ *\#.*//' all_exclude.txt
+sed -i 's/ //' all_exclude.txt
+sed -i 's/\t//' all_exclude.txt
 # remove empty lines
 sed -i '/^$/d' all_exclude.txt
 
