@@ -1,3 +1,16 @@
 { "title" : "mpxTree",   "source": "mpoxSpectrum, contributed by many teams worldwide, and curated by members of NextStrain.",
-"defaultColorByField":"meta_country", "initial_zoom":3
+"defaultColorByField":"meta_country", "initial_zoom":3,
+ "name_accessor": "meta_strain",
+ "keys_to_display": [
+    "name",
+    "meta_date",
+   "clade",
+    "meta_country",
+    "meta_region",
+    "genotype"
+   
+  ],
+  "customNames": {
+    "name": "GenBank accession"
+  }
 }
