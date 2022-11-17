@@ -19,6 +19,10 @@ jobs:
         run: |
           ./pipeline.sh
       - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_user_name: MpxBot # defaults to "github-actions[bot]"
+          commit_author: Author <actions@github.com> # defaults to author of the commit that triggered the run
+
       - name: Upload
         run: |
           source upload.sh
